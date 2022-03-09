@@ -5,6 +5,7 @@ import random
 import time
 import pandas as pd
 import proxies_scr
+import datetime as dt
 
 
 # To avoid having our ip blocked by  idealista there are two things we need to do:
@@ -220,7 +221,7 @@ for id in ids:
             pass
 
 
-
+raw_data['datetime'] = dt.datetime.now() # adding datetime col to know when we scraped.
        
 # Saving data
 print('Saving data')
