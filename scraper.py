@@ -1,4 +1,4 @@
-from re import search
+
 import  requests
 from bs4 import BeautifulSoup as bs
 import random
@@ -11,7 +11,8 @@ import proxies_scr
 # First  is to send headers  with our request. headers tell idealista some information about where we are coming from.
 # Second we need to rotate IP adress so that it is not allways the same. We will use a csv of free proxies I found on the internet.
 
-search_limit = 1500
+search_limit = 10
+n_prox = 7
 
 
 # We need to send headers so that idealista recognises us as a person and not a bot
