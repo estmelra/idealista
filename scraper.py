@@ -224,8 +224,11 @@ for id in ids:
 raw_data['datetime'] = dt.datetime.now() # adding datetime col to know when we scraped.
        
 # Saving data
+now = dt.datetime.now() # current date and time
+file_name = 'data/raw_data_' + now.strftime("%Y%m%d") + '.csv'
+
 print('Saving data')
-raw_data.to_csv('data/raw_data.csv')
+raw_data.to_csv(file_name)
 
 print('End')
 

@@ -43,3 +43,6 @@ def get_proxies():
 
 
 
+
+
+get_proxies()
