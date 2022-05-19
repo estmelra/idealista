@@ -1,0 +1,1217 @@
+house_id,price_act,price_first,advertiser,type,nbhood,street,st_number,sq_m,bedrooms,bathrooms,const_year,floor,lift,balcony,air_con,ft_wardrobes,terrace,exterior,heating
+94283285,750000.0,750000.0,Professional advertiser,flat / apartment ,zona bahia blanca,unknown,,262.0,6.0,4.0,1973.0,10.0,1,1,1,1,1,1,individual
+89113690,575000.0,575000.0,Professional advertiser,duplex ,mentidero - teatro falla - alameda,unknown,,135.0,3.0,3.0,1998.0,2.0,0,0,1,1,1,1,individual
+95291210,320000.0,320000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,190.0,8.0,3.0,1888.0,1.0,0,0,0,0,0,1,no
+96746079,390000.0,390000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,131.0,3.0,2.0,1796.0,3.0,1,1,1,1,0,1,no
+96622572,720000.0,720000.0,Professional advertiser,flat / apartment ,playa stª mª del mar,unknown,,168.0,3.0,2.0,,2.0,1,0,0,1,0,1,individual
+94971680,327500.0,327500.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,198.0,4.0,2.0,2003.0,1.0,1,1,1,1,0,1,individual
+84849222,375000.0,375000.0,Professional advertiser,flat / apartment ,playa stª mª del mar,unknown,,138.0,4.0,2.0,1982.0,1.0,1,0,0,1,1,1,individual
+84635808,615000.0,615000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,296.0,7.0,3.0,1888.0,2.0,0,0,0,1,0,1,no
+95854107,170000.0,170000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle obispo urquinaona,,117.0,2.0,2.0,2021.0,0.0,1,1,1,1,0,0,no
+93809726,355000.0,355000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,128.0,3.0,2.0,1969.0,2.0,1,0,0,0,1,0,no
+90828765,165000.0,165000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,50.0,1.0,1.0,2009.0,1.0,1,1,1,1,0,1,central
+85504149,425000.0,425000.0,Professional advertiser,duplex ,centro historico - plaza espana,unknown,,142.0,4.0,3.0,,3.0,1,0,1,0,1,1,no
+96937615,160000.0,160000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,71.0,3.0,1.0,1965.0,2.0,0,0,0,1,0,0,no
+96937735,135000.0,135000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,paseo de la alameda apodaca nn,,75.0,3.0,1.0,,2.0,0,1,0,0,0,1,no
+96936616,155693.0,155693.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,calle navas,,82.0,3.0,1.0,,0.0,0,0,0,0,0,0,no
+96506475,255000.0,255000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,110.0,2.0,1.0,1888.0,3.0,0,0,0,0,0,1,no
+96019364,265000.0,265000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,103.0,3.0,1.0,,1.0,1,0,0,1,1,1,no
+87441736,310000.0,310000.0,Professional advertiser,duplex ,centro historico - plaza espana,unknown,,110.0,2.0,2.0,,4.0,0,1,1,1,1,1,no
+94722449,360000.0,360000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,150.0,4.0,2.0,,1.0,1,0,1,1,1,0,no
+91166990,950000.0,950000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,200.0,3.0,2.0,,13.0,1,0,1,1,1,1,no
+96759800,330000.0,330000.0,Professional advertiser,duplex ,zona san jose - varela,unknown,,117.0,4.0,2.0,,1.0,0,0,0,1,0,1,no
+96942354,185000.0,185000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,60.0,1.0,1.0,1997.0,,1,0,0,1,0,1,no
+96130057,360000.0,360000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,139.0,4.0,2.0,,3.0,1,0,1,1,1,0,no
+96505732,399000.0,399000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,143.0,4.0,3.0,,2.0,0,1,0,0,0,1,no
+95336377,670000.0,670000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,185.0,4.0,3.0,,5.0,1,0,1,1,1,1,no
+94977896,360000.0,360000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,149.0,4.0,2.0,,1.0,1,0,1,1,0,1,no
+94452035,190000.0,190000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,155.0,4.0,2.0,,0.0,0,0,0,1,0,1,no
+96936389,184685.0,184685.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,55.0,2.0,1.0,1995.0,1.0,1,0,0,0,0,0,no
+96936404,199280.0,199280.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,59.0,2.0,1.0,1995.0,0.0,1,1,0,0,0,0,no
+88567505,1300000.0,1300000.0,Professional advertiser,flat / apartment ,cortadura - zona franca,unknown,,450.0,7.0,9.0,2020.0,2.0,1,0,1,1,1,1,individual
+87756256,365000.0,365000.0,Professional advertiser,flat / apartment ,playa stª mª del mar,unknown,,138.0,4.0,2.0,1982.0,1.0,1,0,0,1,1,1,individual
+96005986,168000.0,168000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,60.0,2.0,1.0,,0.0,0,1,0,0,0,1,no
+93295412,179000.0,179000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,80.0,3.0,1.0,1959.0,1.0,0,0,0,0,0,0,no
+96925185,398750.0,398750.0,Professional advertiser,flat / apartment ,playa victoria,av. andalucia,,190.0,5.0,2.0,,7.0,1,0,0,1,1,1,no
+96939616,198000.0,198000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,85.0,2.0,1.0,,1.0,0,1,0,0,0,1,no
+96929116,400000.0,400000.0,Professional advertiser,flat / apartment ,cortadura - zona franca,unknown,,109.0,3.0,2.0,,5.0,1,0,0,1,0,1,no
+96225661,100000.0,100000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,39.0,1.0,1.0,1995.0,0.0,0,0,0,1,0,0,no
+96514656,104000.0,104000.0,Professional advertiser,penthouse ,la caleta - la vina,unknown,,37.0,1.0,1.0,1888.0,3.0,0,0,0,0,0,0,no
+96928413,288000.0,288000.0,Professional advertiser,flat / apartment ,cortadura - zona franca,unknown,,90.0,3.0,1.0,1985.0,13.0,1,0,0,0,0,0,no
+96928420,250000.0,250000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,113.0,4.0,2.0,1983.0,2.0,1,0,0,0,0,1,individual
+96926657,200000.0,200000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,calle carraca,,70.0,2.0,1.0,1900.0,0.0,0,0,0,0,0,0,no
+96935098,250000.0,250000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,60.0,1.0,1.0,1977.0,12.0,1,0,1,1,1,0,central
+96941465,400000.0,400000.0,Professional advertiser,flat / apartment ,cortadura - zona franca,unknown,,109.0,3.0,2.0,,5.0,1,1,0,1,1,1,no
+96933641,170000.0,170000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,60.0,2.0,1.0,,1.0,0,0,0,0,0,0,individual
+96941175,325000.0,325000.0,Professional advertiser,penthouse ,la caleta - la vina,unknown,,105.0,2.0,2.0,,1.0,1,0,1,1,1,1,no
+96920847,625000.0,625000.0,Private owner,penthouse ,centro historico - plaza espana,calle sacramento,16.0,156.0,3.0,1.0,,3.0,1,0,1,1,1,1,no
+96921437,190000.0,190000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,calle manuel rances,,118.0,4.0,1.0,1888.0,3.0,0,0,0,1,0,1,no
+90182247,699000.0,699000.0,Professional advertiser,flat / apartment ,playa victoria,calle fernandez ballesteros,,233.0,5.0,3.0,1976.0,1.0,1,0,1,1,1,1,no
+96941495,220000.0,220000.0,Professional advertiser,flat / apartment ,cortadura - zona franca,unknown,,90.0,4.0,2.0,,1.0,0,0,0,0,0,0,no
+96243461,365000.0,390000.0,Professional advertiser,flat / apartment ,zona laguna,unknown,,139.0,5.0,2.0,1980.0,0.0,1,0,1,1,0,1,no
+96934215,170000.0,170000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,120.0,3.0,1.0,,1.0,0,1,0,0,0,1,no
+96747437,495000.0,495000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,150.0,5.0,2.0,1968.0,3.0,1,0,0,1,1,1,no
+96655860,520000.0,520000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,166.0,4.0,2.0,1964.0,5.0,1,0,1,1,1,1,no
+96646966,165000.0,165000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,88.0,3.0,2.0,1888.0,3.0,0,0,0,0,0,1,no
+96926680,74000.0,74000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle barquillas de lope,,43.0,1.0,1.0,1995.0,0.0,0,0,0,0,0,0,no
+96869562,412000.0,412000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle robles,,137.0,3.0,2.0,,,0,0,0,0,0,0,no
+96797344,107000.0,107000.0,Professional advertiser,duplex ,mentidero - teatro falla - alameda,calle adolfo de castro,,62.0,1.0,1.0,,,0,0,0,0,0,0,no
+96890396,280000.0,280000.0,Professional advertiser,flat / apartment ,zona laguna,unknown,,104.0,4.0,2.0,1971.0,5.0,1,0,0,1,1,1,no
+90451803,189000.0,198000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,calle santiago,,86.0,2.0,1.0,1858.0,3.0,0,0,0,1,0,1,individual
+95809864,475000.0,475000.0,Professional advertiser,flat / apartment ,zona bahia blanca,unknown,,237.0,4.0,3.0,1967.0,2.0,1,0,0,1,0,1,no
+95690468,860000.0,860000.0,Professional advertiser,penthouse ,centro historico - plaza espana,calle conde de o'reilly,4.0,120.0,2.0,3.0,2021.0,3.0,1,1,1,0,1,1,central
+96936048,149000.0,149000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,70.0,2.0,1.0,2010.0,0.0,0,0,1,0,0,1,no
+96896779,330000.0,330000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,169.0,7.0,3.0,1968.0,1.0,1,0,0,0,1,1,no
+93866195,299000.0,299000.0,Professional advertiser,duplex ,centro historico - plaza espana,calle ancha,19.0,77.0,3.0,2.0,,,1,0,0,0,1,0,no
+96399037,289000.0,289000.0,Professional advertiser,duplex ,centro historico - plaza espana,calle ancha,19.0,74.0,2.0,2.0,,,1,0,0,0,1,0,no
+96399023,190000.0,190000.0,Professional advertiser,studio flat ,centro historico - plaza espana,calle ancha,19.0,54.0,1.0,1.0,,2.0,1,0,0,0,1,0,no
+96399095,189000.0,189000.0,Professional advertiser,studio flat ,centro historico - plaza espana,calle ancha,19.0,72.0,1.0,1.0,,,1,0,0,0,0,0,no
+96922183,400000.0,400000.0,Private owner,flat / apartment ,cortadura - zona franca,paseo maritimo,29.0,109.0,3.0,2.0,,5.0,1,1,0,1,0,1,no
+96809710,470000.0,470000.0,Professional advertiser,flat / apartment ,zona bahia blanca,unknown,,164.0,4.0,2.0,1967.0,4.0,1,0,0,1,1,1,no
+96938947,125000.0,125000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,67.0,3.0,1.0,,0.0,1,0,0,0,0,1,no
+96920978,350000.0,350000.0,Private owner,flat / apartment ,centro historico - plaza espana,calle sacramento,16.0,105.0,3.0,2.0,,1.0,1,1,1,1,0,1,no
+96882088,680000.0,680000.0,Professional advertiser,flat / apartment ,zona bahia blanca,unknown,,230.0,5.0,3.0,,7.0,1,0,1,1,1,1,no
+93457918,200000.0,206000.0,Professional advertiser,penthouse ,la paz - segunda aguada - loreto,calle carraca,,60.0,2.0,1.0,2008.0,3.0,1,0,0,1,1,1,no
+96603191,950000.0,950000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,calle ahumada,,311.0,5.0,5.0,1965.0,5.0,1,1,0,1,1,1,individual
+39864695,330000.0,330000.0,Professional advertiser,flat / apartment ,la caleta - la vina,avenida duque de najera,,155.0,5.0,3.0,,1.0,1,0,0,1,1,1,no
+95550013,410000.0,410000.0,Professional advertiser,flat / apartment ,playa victoria,plaza asdrubal,,154.0,4.0,2.0,,5.0,1,0,0,1,1,1,no
+93866253,250000.0,250000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,calle ancha,19.0,72.0,2.0,1.0,,,1,0,0,0,1,0,no
+96387256,259000.0,259000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,plaza viudas,,102.0,3.0,2.0,1961.0,1.0,1,0,1,1,1,1,no
+96325664,180000.0,180000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,calle rafael picardo o'leary,,67.0,3.0,1.0,1968.0,4.0,1,0,0,0,0,1,no
+95664550,320000.0,320000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,avenida san severiano,,139.0,3.0,2.0,2016.0,3.0,1,0,1,1,1,1,no
+94466439,720000.0,720000.0,Professional advertiser,flat / apartment ,playa stª mª del mar,avenida fernandez ladreda,,167.0,3.0,1.0,1961.0,2.0,1,0,0,1,1,1,individual
+93457664,128750.0,155450.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,calle santo domingo,,58.0,1.0,1.0,2000.0,0.0,0,0,0,0,0,0,no
+90574800,189000.0,198000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,santiago,,86.0,2.0,1.0,1858.0,3.0,0,1,0,1,0,1,individual
+84569689,970000.0,970000.0,Professional advertiser,flat / apartment ,playa victoria,calle fernandez ballesteros,,200.0,4.0,3.0,,7.0,1,0,1,1,1,1,no
+89759548,220000.0,220000.0,Professional advertiser,duplex ,centro historico - plaza espana,unknown,,82.0,1.0,1.0,1888.0,0.0,0,0,0,0,0,1,no
+88836053,900000.0,900000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,223.0,5.0,3.0,1976.0,9.0,1,0,1,1,1,1,individual
+84546673,479000.0,479000.0,Professional advertiser,duplex ,centro historico - plaza espana,unknown,,187.0,3.0,2.0,1985.0,2.0,1,0,1,1,0,1,no
+96928423,138000.0,138000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,40.0,1.0,1.0,2021.0,2.0,1,0,0,1,0,0,no
+96618407,250000.0,250000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,113.0,4.0,2.0,1983.0,5.0,1,0,0,0,0,1,individual
+95161638,288000.0,288000.0,Professional advertiser,flat / apartment ,cortadura - zona franca,unknown,,90.0,3.0,1.0,1985.0,13.0,1,0,0,0,0,0,no
+94055807,200000.0,206000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,calle carraca,,70.0,2.0,1.0,,,0,0,0,0,0,0,no
+96869556,209500.0,209500.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle robles,,56.0,1.0,1.0,,,0,0,0,0,0,0,no
+96869554,202500.0,202500.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle robles,,75.0,1.0,1.0,,,0,0,0,0,0,0,no
+95694079,385000.0,400000.0,Professional advertiser,flat / apartment ,zona san jose - varela,ecuador,,155.0,5.0,2.0,1973.0,4.0,1,0,0,1,1,0,no
+96546588,465000.0,465000.0,Professional advertiser,flat / apartment ,la caleta - la vina,avenida duque de najera nn,,170.0,5.0,3.0,,4.0,1,0,1,1,1,1,no
+96013174,155000.0,160000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,84.0,3.0,1.0,1961.0,3.0,0,0,0,0,0,0,no
+95951739,186000.0,200000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,108.0,4.0,1.0,1995.0,3.0,0,1,0,0,0,0,no
+95663525,275000.0,275000.0,Professional advertiser,flat / apartment ,zona san jose - varela,granja san idelfonso nn,,88.0,3.0,1.0,,4.0,1,0,0,1,0,0,no
+96467951,165000.0,165000.0,Professional advertiser,flat / apartment ,la caleta - la vina,zona de san lorenzo nn,,91.0,3.0,1.0,,,0,0,0,0,0,1,no
+96039362,99900.0,99900.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,zona de la plaza de san antonio nn,,50.0,1.0,1.0,,1.0,0,0,0,0,0,0,no
+95289589,349900.0,349900.0,Professional advertiser,flat / apartment ,la caleta - la vina,zona plaza de la libertad nn,,100.0,3.0,2.0,1988.0,2.0,1,1,1,1,0,1,no
+95054463,340000.0,340000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,cervantes,,115.0,3.0,2.0,2015.0,1.0,1,1,1,1,0,1,individual
+96869555,205000.0,205000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle robles,,71.0,1.0,1.0,,,0,0,0,0,0,0,no
+96869520,207000.0,207000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle robles,,60.0,1.0,1.0,,,0,0,0,0,0,0,no
+96635901,170000.0,177000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,calle carlos haya,,70.0,3.0,1.0,,0.0,1,0,1,1,0,1,no
+94744375,327500.0,335000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,189.0,4.0,2.0,,1.0,1,1,1,1,0,1,individual
+96830828,270000.0,270000.0,Professional advertiser,flat / apartment ,playa stª mª del mar,unknown,,91.0,4.0,1.0,1958.0,4.0,1,0,0,0,1,1,no
+93888888,750000.0,750000.0,Professional advertiser,flat / apartment ,zona bahia blanca,unknown,,232.0,6.0,4.0,1971.0,10.0,1,1,1,1,1,1,no
+84496099,170000.0,170000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,71.0,3.0,1.0,,2.0,0,1,1,0,0,1,no
+96746699,330000.0,330000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,139.0,4.0,2.0,2017.0,4.0,1,0,1,0,0,1,no
+96710105,175000.0,175000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,67.0,2.0,1.0,1970.0,1.0,0,1,1,1,0,1,no
+96680015,177000.0,177000.0,Professional advertiser,duplex ,mentidero - teatro falla - alameda,unknown,,67.0,2.0,1.0,2003.0,2.0,1,0,0,1,0,1,no
+96480552,240000.0,250000.0,Professional advertiser,flat / apartment ,zona laguna,unknown,,86.0,4.0,2.0,,2.0,1,0,0,0,0,0,no
+96504521,260000.0,260000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,avenida san severiano,,123.0,3.0,2.0,1956.0,4.0,0,0,0,1,0,1,no
+96320074,180000.0,180000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,calle rafael picardo o'leary,,67.0,3.0,1.0,1968.0,4.0,1,0,0,0,0,1,no
+96254861,235000.0,235000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,calle cardenal zapata,,107.0,3.0,1.0,1988.0,2.0,0,0,1,1,0,1,no
+95970657,259000.0,259000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,plaza de las viudas,,102.0,3.0,2.0,1961.0,1.0,1,0,1,1,1,1,no
+95347308,225000.0,225000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,hercules,,81.0,3.0,1.0,1888.0,3.0,1,1,0,1,0,1,no
+94179036,720000.0,720000.0,Professional advertiser,flat / apartment ,playa stª mª del mar,avenida fernandez ladreda,,167.0,3.0,2.0,1961.0,2.0,1,1,0,1,1,1,individual
+96863739,285000.0,285000.0,Professional advertiser,flat / apartment ,playa victoria,calle general munoz arenillas,,66.0,2.0,1.0,,6.0,1,0,0,1,1,1,no
+96685945,195000.0,195000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,calle carmen coronada,,129.0,4.0,1.0,1995.0,0.0,0,0,0,1,0,1,no
+91832495,125000.0,125000.0,Professional advertiser,flat / apartment ,la caleta - la vina,mercado de abastos,,71.0,2.0,1.0,1888.0,3.0,0,0,0,1,1,1,no
+96923952,175000.0,175000.0,Professional advertiser,flat / apartment ,zona san jose - varela,salvador del mundo,,72.0,3.0,1.0,,5.0,1,0,0,1,0,1,no
+96899268,150000.0,150000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,avenida lacave,,70.0,3.0,1.0,1973.0,0.0,1,0,0,0,0,1,no
+96116931,199999.0,205000.0,Professional advertiser,flat / apartment ,zona bahia blanca,calle zona bahia blanca,,70.0,2.0,1.0,,4.0,1,0,0,1,0,1,individual
+93824363,171000.0,171000.0,Professional advertiser,flat / apartment ,zona san jose - varela,gas,,84.0,3.0,1.0,1979.0,3.0,0,0,1,1,0,1,individual
+96890660,350000.0,350000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,136.0,2.0,1.0,,1.0,0,1,0,1,0,1,no
+96618170,250000.0,250000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,101.0,3.0,2.0,1995.0,2.0,0,1,0,1,0,1,no
+96214775,325000.0,325000.0,Professional advertiser,penthouse ,la caleta - la vina,unknown,,122.0,2.0,2.0,2021.0,4.0,1,0,1,0,1,0,no
+93647155,283393.0,283393.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,88.0,3.0,2.0,2020.0,2.0,1,0,0,1,0,0,no
+96075110,250000.0,250000.0,Professional advertiser,flat / apartment ,zona bahia blanca,unknown,,72.0,2.0,1.0,1994.0,0.0,1,0,1,1,0,1,no
+95516044,339000.0,339000.0,Professional advertiser,flat / apartment ,cortadura - zona franca,unknown,,97.0,3.0,2.0,1980.0,1.0,1,0,0,1,1,1,no
+95109707,135000.0,135000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,65.0,2.0,1.0,1888.0,3.0,0,1,1,1,0,1,no
+94837497,180000.0,180000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,150.0,3.0,1.0,1961.0,2.0,0,0,0,0,0,0,no
+94442103,155000.0,155000.0,Developer,studio flat ,mentidero - teatro falla - alameda,calle enrique de las marinas,49.0,54.0,0.0,1.0,,0.0,1,0,0,0,0,1,no
+95314128,365000.0,365000.0,Developer,flat / apartment ,mentidero - teatro falla - alameda,calle enrique de las marinas,49.0,112.0,3.0,2.0,,1.0,1,0,0,0,0,1,no
+95617368,165000.0,165000.0,Developer,flat / apartment ,mentidero - teatro falla - alameda,calle enrique de las marinas,49.0,48.0,1.0,1.0,,0.0,1,0,0,0,0,1,no
+93457518,149350.0,176552.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle lubet,,72.0,2.0,1.0,,2.0,0,0,0,0,0,0,no
+93490442,210000.0,210000.0,Professional advertiser,penthouse ,la caleta - la vina,unknown,,72.0,2.0,1.0,,3.0,0,0,0,1,1,1,no
+93425045,120000.0,120000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,54.0,2.0,1.0,1995.0,1.0,0,0,0,0,0,0,no
+92518288,575000.0,575000.0,Professional advertiser,duplex ,mentidero - teatro falla - alameda,unknown,,140.0,3.0,3.0,,2.0,0,0,1,1,1,1,no
+92520659,150000.0,150000.0,Professional advertiser,penthouse ,la caleta - la vina,unknown,,46.0,0.0,1.0,,3.0,0,0,1,1,1,1,no
+91921068,329000.0,329000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,154.0,4.0,1.0,1888.0,3.0,0,1,0,0,1,1,no
+91415149,210000.0,210000.0,Professional advertiser,penthouse ,la caleta - la vina,unknown,,97.0,2.0,1.0,,3.0,0,0,1,1,1,1,no
+89232272,465000.0,465000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,170.0,5.0,3.0,,4.0,1,0,0,1,1,1,no
+96872232,340000.0,340000.0,Professional advertiser,duplex ,zona laguna,unknown,,135.0,4.0,2.0,,,1,0,1,1,1,1,no
+96702568,200000.0,206000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,calle carraca,,70.0,1.0,1.0,,,0,0,0,0,0,0,individual
+96652303,475000.0,475000.0,Professional advertiser, house ,la caleta - la vina,unknown,,295.0,10.0,8.0,,,0,1,0,0,1,0,no
+96413567,352000.0,352000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,torre,15.0,102.0,3.0,2.0,2019.0,1.0,1,1,1,1,0,1,individual
+86437918,283400.0,283400.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,torre,15.0,89.0,3.0,2.0,2019.0,2.0,1,1,1,1,0,0,individual
+96811510,200000.0,200000.0,Professional advertiser,penthouse ,la paz - segunda aguada - loreto,calle carraca,9.0,60.0,2.0,1.0,2006.0,4.0,1,0,1,1,1,1,no
+96779795,125000.0,125000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,zona centro nn,,65.0,2.0,1.0,,3.0,0,0,0,0,0,0,no
+96775577,240000.0,240000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,santo domingo de la calzada,14.0,120.0,4.0,2.0,,4.0,1,0,1,1,1,1,no
+96738891,300000.0,300000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,calle plocia,11.0,187.0,4.0,1.0,1888.0,1.0,0,0,0,0,0,1,no
+96504213,365000.0,370000.0,Professional advertiser,flat / apartment ,zona laguna,unknown,,135.0,5.0,2.0,1980.0,1.0,1,0,0,1,0,0,no
+96332270,950000.0,950000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,alameda,,311.0,4.0,4.0,,5.0,1,0,0,1,1,1,no
+96302143,327500.0,327500.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,calle rosario nn,,189.0,4.0,2.0,1888.0,1.0,1,0,1,1,0,1,no
+93759025,115500.0,115500.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle maria arteaga,,65.0,2.0,1.0,,0.0,0,0,0,1,0,1,no
+95235290,360000.0,360000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,paseo principe de asturias,,128.0,3.0,2.0,,10.0,1,0,1,1,0,1,central
+39950713,520000.0,520000.0,Professional advertiser,flat / apartment ,playa victoria,glorieta helios,,207.0,5.0,3.0,,1.0,1,0,0,1,1,1,no
+96928350,185000.0,185000.0,Private owner,flat / apartment ,centro historico - plaza espana,calle cobos,2.0,88.0,2.0,1.0,,2.0,0,1,0,1,0,1,no
+95864215,216993.0,216993.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,calle plocia,,112.0,3.0,2.0,,3.0,0,1,0,0,0,0,no
+95278835,134450.0,134450.0,Developer,flat / apartment ,la caleta - la vina,calle sargento daponte ,2.0,51.0,1.0,1.0,,0.0,1,0,0,0,0,1,no
+94490767,206252.0,206252.0,Developer,flat / apartment ,la caleta - la vina,calle sargento daponte ,2.0,77.0,2.0,2.0,,1.0,1,0,0,0,0,1,no
+94371856,127368.0,127368.0,Developer,flat / apartment ,la caleta - la vina,calle sargento daponte ,2.0,51.0,1.0,1.0,,0.0,1,0,0,0,0,1,no
+96929130,200000.0,200000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,90.0,2.0,1.0,,1.0,0,0,0,0,0,1,no
+96864365,425000.0,425000.0,Professional advertiser,penthouse ,centro historico - plaza espana,unknown,,142.0,3.0,3.0,,3.0,1,0,0,0,1,1,central
+96256211,165000.0,175000.0,Professional advertiser,flat / apartment ,playa stª mª del mar,condesa villafuente bermeja nn,,50.0,1.0,1.0,,5.0,1,0,1,1,0,1,no
+96851124,190000.0,190000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,112.0,4.0,1.0,1900.0,3.0,0,1,0,0,0,1,no
+96693572,243000.0,243000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,70.0,2.0,1.0,2021.0,0.0,1,0,0,0,0,0,no
+96650907,259000.0,259000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,102.0,3.0,2.0,1961.0,1.0,1,0,1,1,1,1,no
+95942712,245000.0,245000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,74.0,2.0,1.0,2018.0,2.0,1,1,1,0,0,1,individual
+95772637,149500.0,153000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,avenida san severiano,31.0,68.0,3.0,1.0,,1.0,1,0,0,0,0,1,no
+95752504,385000.0,400000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,155.0,5.0,2.0,1973.0,4.0,1,0,0,1,1,1,no
+95004825,249000.0,249000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,97.0,3.0,2.0,2014.0,1.0,1,1,0,0,0,1,no
+94919876,400000.0,400000.0,Professional advertiser,duplex ,la caleta - la vina,unknown,,134.0,4.0,2.0,2021.0,3.0,1,0,1,1,1,1,individual
+90817659,390000.0,390000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,131.0,3.0,2.0,1888.0,3.0,1,1,0,1,0,1,individual
+95773080,259000.0,265000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,102.0,3.0,2.0,,1.0,1,0,1,1,1,1,no
+92244683,185000.0,185000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle encarnacion,,77.0,2.0,1.0,,2.0,0,0,0,0,0,1,no
+96801900,250000.0,250000.0,Professional advertiser,flat / apartment ,zona laguna,zurbaran nn,,100.0,3.0,2.0,,1.0,1,0,1,1,1,1,no
+95435309,295000.0,310000.0,Professional advertiser,flat / apartment ,zona laguna,unknown,,106.0,3.0,1.0,,3.0,1,0,1,1,1,1,no
+95162934,164900.0,164900.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,zona de la plaza del falla nn,,95.0,3.0,1.0,1980.0,3.0,0,1,1,1,0,1,no
+96106569,159900.0,159900.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,zona de la plaza de mina nn,,123.0,4.0,1.0,1945.0,3.0,0,1,0,1,0,1,no
+96017962,181000.0,181000.0,Professional advertiser,flat / apartment ,la caleta - la vina,san francisco javier,,72.0,2.0,1.0,2021.0,0.0,1,0,1,0,0,1,individual
+95923726,600000.0,600000.0,Professional advertiser,flat / apartment ,playa victoria,plaza asdrubal nn,,180.0,4.0,3.0,,2.0,1,0,1,1,1,1,no
+95442017,415000.0,415000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,calle jose del toro,,152.0,3.0,2.0,2000.0,2.0,1,1,1,1,1,1,individual
+95243123,185000.0,185000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle virgen de la palma nn,,90.0,3.0,1.0,,3.0,0,0,1,0,1,1,individual
+94031065,123600.0,123600.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle jose cubiles,39.0,83.0,2.0,1.0,1995.0,0.0,0,0,0,0,0,0,no
+91710079,105000.0,105000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle pasquin,23.0,59.0,2.0,1.0,,2.0,0,0,0,0,1,1,no
+90515157,160000.0,160000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,56.0,1.0,1.0,,0.0,1,0,0,0,0,1,no
+90515154,130000.0,130000.0,Professional advertiser,studio flat ,centro historico - plaza espana,unknown,,49.0,0.0,1.0,,0.0,1,0,0,0,0,1,no
+95185281,280000.0,280000.0,Professional advertiser,flat / apartment ,playa victoria,avenida cayetano del toro,,124.0,3.0,2.0,,2.0,0,0,0,1,1,1,no
+96329427,685000.0,685000.0,,duplex ,mentidero - teatro falla - alameda,calle san jose,23.0,362.0,10.0,3.0,,2.0,0,1,0,0,1,1,central
+96289845,950000.0,950000.0,Private owner,flat / apartment ,mentidero - teatro falla - alameda,calle ahumada,20.0,311.0,5.0,4.0,,5.0,1,0,1,1,1,1,individual
+96239624,250000.0,250000.0,Private owner,flat / apartment ,cortadura - zona franca,calle sirenas,4.0,60.0,1.0,1.0,1975.0,2.0,1,0,1,1,1,1,individual
+93562436,190000.0,190000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,54.0,1.0,1.0,,2.0,1,0,0,0,1,0,no
+95916285,742800.0,742800.0,Professional advertiser, terraced house ,centro historico - plaza espana,calle rafael de la viesca,,879.0,5.0,1.0,1995.0,,0,0,0,0,1,0,no
+95873101,350000.0,350000.0,Professional advertiser,flat / apartment ,zona laguna,calle pintor zuloaga,,155.0,4.0,2.0,,5.0,1,0,1,1,1,1,no
+93064751,145000.0,145000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,calle sancti petri,70.0,80.0,3.0,1.0,,,0,0,0,1,0,1,no
+95073082,135000.0,135000.0,Professional advertiser,flat / apartment ,zona san jose - varela,calle francisco garcia de sola,,68.0,3.0,1.0,,3.0,0,0,0,0,0,0,no
+95533814,379500.0,379500.0,Private owner,flat / apartment ,zona laguna,avenida marconi,10.0,136.0,3.0,2.0,,4.0,1,1,1,1,1,1,no
+94662930,159900.0,159900.0,Private owner,flat / apartment ,mentidero - teatro falla - alameda,alameda marques de comillas nn,,62.0,2.0,1.0,,2.0,0,1,1,1,0,1,no
+93457658,74000.0,74000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle barquillas de lope,,44.0,1.0,1.0,1888.0,0.0,0,0,0,0,0,0,no
+93457208,101200.0,101200.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle maria arteaga,,66.0,2.0,1.0,1888.0,0.0,0,0,0,0,0,0,no
+93156778,720000.0,720000.0,Professional advertiser,flat / apartment ,playa stª mª del mar,avenida fernandez ladreda,,148.0,3.0,2.0,,2.0,1,0,0,1,1,1,individual
+93068568,145000.0,145000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,calle sancti petri,70.0,80.0,3.0,1.0,,0.0,0,0,0,1,0,1,no
+90942429,275000.0,275000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,calle america,8.0,120.0,3.0,2.0,2000.0,6.0,1,0,0,1,1,1,central
+90916367,189000.0,189000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,calle cervantes,,86.0,2.0,1.0,1995.0,3.0,0,0,1,0,1,1,individual
+90602476,360000.0,360000.0,Private owner,flat / apartment ,centro historico - plaza espana,calle cristobal colon,21.0,130.0,3.0,2.0,,2.0,1,1,1,1,0,1,no
+88377518,650000.0,650000.0,Professional advertiser,flat / apartment ,zona san jose - varela,andalucia,,229.0,6.0,4.0,,3.0,1,0,0,1,1,1,no
+84815398,669500.0,669500.0,Professional advertiser,flat / apartment ,playa victoria,paseo maritimo,,165.0,4.0,2.0,1981.0,7.0,1,0,0,1,1,1,no
+81325127,675000.0,675000.0,Professional advertiser,penthouse ,centro historico - plaza espana,calle ancha,,139.0,3.0,2.0,1941.0,3.0,1,0,1,1,1,1,no
+96862046,199280.0,199280.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,59.0,2.0,1.0,,1.0,1,1,0,0,0,1,no
+96862035,184685.0,184685.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,55.0,2.0,1.0,,1.0,1,0,0,0,0,0,no
+96862044,194700.0,194700.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,50.0,2.0,1.0,,1.0,1,0,0,0,0,0,no
+96857716,152460.0,152460.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,43.0,1.0,1.0,,2.0,1,0,0,0,0,0,no
+96857715,259875.0,259875.0,Professional advertiser,duplex ,ayuntamiento - catedral,unknown,,57.0,2.0,1.0,,2.0,1,0,0,0,1,0,no
+94380905,186000.0,186000.0,Professional advertiser,duplex ,centro historico - plaza espana,unknown,,104.0,2.0,2.0,,0.0,1,0,1,1,1,0,no
+96796359,130000.0,130000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,77.0,2.0,1.0,1988.0,2.0,0,0,0,0,0,0,no
+96259645,590000.0,590000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,299.0,6.0,2.0,1973.0,1.0,1,0,0,0,0,1,central
+93869137,575000.0,575000.0,Professional advertiser,duplex ,mentidero - teatro falla - alameda,unknown,,135.0,3.0,3.0,,2.0,0,0,1,1,1,1,central
+96654698,685000.0,685000.0,Professional advertiser,duplex ,mentidero - teatro falla - alameda,unknown,,362.0,4.0,3.0,1898.0,2.0,0,1,0,0,1,0,central
+96608992,520000.0,520000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,166.0,4.0,2.0,1965.0,5.0,1,1,1,1,0,1,no
+95868301,210000.0,210000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,97.0,2.0,1.0,1888.0,3.0,0,0,1,1,1,0,no
+95457745,250000.0,250000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,96.0,3.0,1.0,1976.0,1.0,1,0,0,0,1,0,no
+95293602,370000.0,370000.0,Professional advertiser,flat / apartment ,zona laguna,unknown,,90.0,3.0,2.0,1965.0,3.0,1,0,1,1,0,0,no
+95161616,195000.0,195000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,85.0,3.0,1.0,1980.0,3.0,1,0,0,0,0,0,no
+29293761,365000.0,365000.0,Professional advertiser,flat / apartment ,playa stª mª del mar,unknown,,150.0,4.0,2.0,1960.0,1.0,1,0,1,1,0,1,no
+87875122,138000.0,138000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,68.0,3.0,1.0,1959.0,3.0,1,0,0,0,0,1,no
+94161657,165000.0,165000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,92.0,4.0,1.0,1975.0,0.0,0,0,1,1,0,0,individual
+36889772,725000.0,725000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,169.0,5.0,3.0,1980.0,7.0,1,0,0,1,0,0,no
+92101325,950000.0,950000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,130.0,3.0,2.0,1970.0,12.0,1,0,0,0,1,0,no
+90844047,395000.0,395000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,190.0,4.0,3.0,2010.0,2.0,0,1,0,1,1,0,no
+89692899,350000.0,350000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,200.0,4.0,2.0,1888.0,3.0,1,1,1,1,1,1,no
+85451616,302302.0,302302.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,116.0,2.0,2.0,2019.0,9.0,1,0,1,0,1,1,central
+88375367,385000.0,385000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,120.0,3.0,2.0,1977.0,1.0,1,0,0,1,0,1,no
+35467955,420000.0,420000.0,Professional advertiser,flat / apartment ,playa stª mª del mar,unknown,,175.0,4.0,2.0,1980.0,0.0,1,0,1,1,0,1,no
+86020229,128000.0,128000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,81.0,2.0,1.0,1995.0,3.0,0,0,0,0,0,0,no
+38146764,400000.0,400000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,151.0,4.0,3.0,2000.0,12.0,1,0,1,1,1,1,central
+85053001,350000.0,350000.0,Professional advertiser,flat / apartment ,playa stª mª del mar,unknown,,100.0,3.0,2.0,1980.0,1.0,1,0,0,1,0,0,no
+32563803,260000.0,260000.0,Professional advertiser,flat / apartment ,zona laguna,unknown,,120.0,4.0,2.0,1975.0,4.0,1,0,0,1,1,1,no
+83037485,240000.0,240000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,92.0,2.0,1.0,,1.0,1,1,0,1,0,1,no
+30012433,475000.0,475000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,108.0,3.0,2.0,2000.0,1.0,1,0,0,0,1,1,no
+96898560,159900.0,159900.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,72.0,3.0,1.0,,2.0,1,0,0,1,0,1,no
+96172629,670000.0,670000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,184.0,4.0,3.0,1975.0,5.0,1,0,1,1,1,1,no
+95966438,475000.0,475000.0,Professional advertiser,flat / apartment ,zona bahia blanca,unknown,,240.0,4.0,3.0,,2.0,1,1,1,0,1,1,no
+94894300,129900.0,129900.0,Professional advertiser,flat / apartment ,la caleta - la vina,zona de la c/ la rosa,100.0,80.0,3.0,1.0,1900.0,2.0,0,0,0,0,1,1,no
+82608135,235000.0,235000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,117.0,3.0,2.0,1995.0,1.0,0,0,0,1,0,1,no
+95787372,330000.0,330000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,159.0,7.0,3.0,,1.0,1,1,0,1,1,1,no
+95755818,480000.0,499000.0,Professional advertiser,flat / apartment ,zona bahia blanca,avenida bahia blanca,,250.0,4.0,3.0,,2.0,1,1,0,0,1,1,no
+91125500,155000.0,155000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,93.0,3.0,1.0,1888.0,3.0,0,1,1,1,0,1,no
+93627565,128750.0,155450.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,calle santo domingo,,45.0,1.0,1.0,,0.0,0,0,0,0,0,0,individual
+91008307,150000.0,150000.0,Professional advertiser,penthouse ,la caleta - la vina,unknown,,46.0,1.0,1.0,1888.0,3.0,0,0,1,1,1,1,no
+86291481,198000.0,198000.0,Professional advertiser,penthouse ,mentidero - teatro falla - alameda,unknown,,70.0,1.0,1.0,1888.0,3.0,0,0,1,1,1,1,no
+94445977,190000.0,195000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,108.0,3.0,2.0,1888.0,2.0,0,1,0,0,1,1,no
+96225607,189000.0,198000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,96.0,2.0,1.0,1858.0,3.0,0,1,0,0,0,0,no
+93457504,82200.0,82200.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,calle compania,,60.0,2.0,1.0,,0.0,0,0,0,0,0,0,no
+95901843,249000.0,249000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,calle benjumeda nn,,95.0,3.0,1.0,,1.0,1,1,1,1,0,1,no
+95491129,135000.0,139000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,50.0,1.0,1.0,,2.0,0,0,1,1,1,0,no
+94433265,114000.0,114000.0,Professional advertiser,flat / apartment ,zona san jose - varela,calle garcia carrera,,49.0,2.0,1.0,,0.0,0,0,0,0,0,0,individual
+90048306,123000.0,123000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,feduchy nn,,57.0,1.0,1.0,2007.0,0.0,0,0,0,0,0,1,no
+89001836,74000.0,74000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle barquillas de lope,,43.0,1.0,1.0,1888.0,0.0,0,0,0,0,0,0,no
+96431971,750000.0,750000.0,Professional advertiser,flat / apartment ,zona bahia blanca,calle hibiscos,5.0,232.0,5.0,4.0,1973.0,10.0,1,0,1,1,1,1,individual
+96373318,180000.0,180000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,calle sacramento,,84.0,3.0,1.0,1910.0,1.0,1,0,1,1,0,0,individual
+95092761,99000.0,99000.0,Professional advertiser,flat / apartment ,la caleta - la vina,barrio de la vina,20.0,85.0,3.0,1.0,1940.0,0.0,0,0,0,0,0,1,no
+95773974,170000.0,170000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle circo,,132.0,3.0,1.0,1888.0,1.0,0,0,0,0,1,1,no
+94604741,260000.0,260000.0,Professional advertiser,flat / apartment ,zona san jose - varela,calle garcia carrera,,126.0,4.0,2.0,1968.0,3.0,1,0,0,1,0,1,no
+94513549,120000.0,120000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle porteria de capuchinos,,40.0,1.0,1.0,1994.0,0.0,0,0,0,0,1,0,no
+94198598,350000.0,420000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,calle presidente rivadavia,,200.0,5.0,2.0,1888.0,3.0,1,1,0,0,0,1,no
+86701710,740000.0,740000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,avenida cuatro de diciembre de 1977,,200.0,3.0,2.0,1980.0,4.0,1,1,1,1,1,1,central
+81283686,695000.0,695000.0,Professional advertiser,flat / apartment ,playa victoria,paseo maritimo,,185.0,5.0,4.0,1981.0,7.0,1,0,1,1,1,1,individual
+92598450,290000.0,290000.0,Professional advertiser,flat / apartment ,playa victoria,avenida de andalucia,,135.0,4.0,2.0,,1.0,1,1,0,1,0,1,no
+91308174,550000.0,550000.0,Professional advertiser,flat / apartment ,playa victoria,amilcar barca,,167.0,4.0,3.0,1970.0,7.0,1,0,0,1,1,1,no
+90986052,180000.0,180000.0,Professional advertiser,studio flat ,la paz - segunda aguada - loreto,calle veracruz,,63.0,0.0,1.0,2006.0,0.0,1,0,1,1,0,1,individual
+96893193,180000.0,180000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,53.0,1.0,1.0,2006.0,0.0,1,0,1,0,0,1,no
+96893175,330000.0,330000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,155.0,5.0,3.0,1968.0,1.0,1,1,0,0,0,1,no
+96879675,245000.0,245000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,100.0,3.0,2.0,1971.0,2.0,1,0,0,0,0,0,no
+96872376,750000.0,750000.0,Professional advertiser,flat / apartment ,zona bahia blanca,calle hibiscos,,262.0,5.0,4.0,1973.0,10.0,1,0,0,0,0,1,no
+96697782,160000.0,160000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,avenida guadalquivir,,85.0,3.0,1.0,1974.0,1.0,1,0,0,0,1,1,no
+90568736,365000.0,365000.0,Professional advertiser,flat / apartment ,playa stª mª del mar,unknown,,142.0,4.0,2.0,1982.0,1.0,1,0,1,1,1,1,no
+95653789,465000.0,465000.0,Professional advertiser,duplex ,centro historico - plaza espana,unknown,,198.0,4.0,2.0,1985.0,2.0,1,1,0,1,0,1,no
+82849569,244000.0,244000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,118.0,3.0,2.0,,1.0,0,1,0,0,0,1,no
+95436663,145000.0,145000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,52.0,1.0,1.0,,,1,0,0,0,0,1,no
+84557800,500000.0,500000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,227.0,5.0,3.0,,1.0,0,1,0,0,0,1,no
+94132006,370000.0,370000.0,Professional advertiser,flat / apartment ,zona laguna,unknown,,85.0,3.0,2.0,,3.0,1,0,1,1,1,1,no
+93881705,330000.0,330000.0,Professional advertiser,flat / apartment ,cortadura - zona franca,unknown,,60.0,2.0,1.0,,2.0,1,0,1,1,0,1,no
+93538048,370000.0,370000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,200.0,4.0,2.0,,3.0,1,1,0,0,0,1,no
+92920902,385000.0,385000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,100.0,3.0,2.0,,1.0,1,0,1,1,1,1,no
+91831296,130000.0,130000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,67.0,1.0,1.0,,0.0,0,0,0,1,0,1,no
+90478009,595000.0,595000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,237.0,6.0,3.0,1972.0,4.0,1,1,1,1,0,1,no
+85283560,360000.0,360000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,124.0,2.0,2.0,,1.0,1,1,1,0,0,1,no
+96878195,150000.0,150000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,53.0,2.0,1.0,2002.0,0.0,1,0,0,1,0,1,no
+84099419,190000.0,190000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,116.0,4.0,1.0,,3.0,0,1,0,1,0,1,no
+96861158,370000.0,370000.0,Professional advertiser,duplex ,centro historico - plaza espana,unknown,,71.0,2.0,1.0,2019.0,3.0,1,1,1,1,1,1,central
+84312044,190000.0,190000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,112.0,4.0,1.0,,3.0,0,1,0,0,0,1,no
+96813727,150000.0,150000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,52.0,2.0,1.0,1972.0,1.0,0,0,0,1,0,0,no
+96797040,520000.0,520000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,125.0,4.0,2.0,1965.0,5.0,1,0,1,1,1,1,no
+96774931,300000.0,300000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,150.0,4.0,2.0,1888.0,2.0,0,0,0,0,0,1,no
+96731308,180000.0,180000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,67.0,3.0,1.0,1968.0,4.0,0,0,0,0,0,0,no
+34135408,225000.0,225000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,90.0,3.0,2.0,,3.0,1,0,0,1,1,1,no
+96630394,330000.0,330000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,151.0,5.0,3.0,,1.0,1,0,0,1,1,1,no
+94442101,378000.0,378000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,78.0,2.0,2.0,,3.0,1,1,1,1,0,1,no
+94441761,250000.0,250000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,45.0,1.0,1.0,,3.0,1,1,1,1,0,1,no
+94441315,690000.0,690000.0,Professional advertiser,penthouse ,centro historico - plaza espana,unknown,,82.0,3.0,2.0,,4.0,1,0,1,1,1,1,no
+94047682,400000.0,400000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,144.0,3.0,2.0,2000.0,2.0,1,1,0,1,0,1,no
+96490750,80000.0,80000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,calle rosario,,42.0,1.0,0.0,1995.0,3.0,0,0,0,0,0,1,no
+96479053,299000.0,299000.0,Developer,flat / apartment ,playa victoria,calle almirante manuel vierna nn,,86.0,3.0,2.0,,,1,0,1,1,0,1,no
+95219637,320000.0,350000.0,Professional advertiser,flat / apartment ,playa victoria,avenida ana de viya,,121.0,4.0,2.0,1970.0,6.0,1,0,0,0,1,1,no
+95006346,200000.0,200000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle pasquin,,95.0,3.0,2.0,,1.0,0,1,0,1,0,1,no
+91968461,130000.0,135000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,72.0,1.0,1.0,2015.0,0.0,0,0,0,1,0,0,no
+96868327,240000.0,240000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,calle sacramento,,155.0,4.0,2.0,1995.0,1.0,0,1,0,0,1,1,no
+96840237,240000.0,240000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,calle san miguel,,106.0,2.0,1.0,1888.0,0.0,0,0,1,0,0,0,individual
+96816603,350000.0,350000.0,Professional advertiser,flat / apartment ,playa stª mª del mar,calle francisco garcia merchan,,169.0,4.0,2.0,1992.0,,0,0,0,0,1,0,no
+96789888,470000.0,470000.0,Professional advertiser,flat / apartment ,zona bahia blanca,calle santa cruz de tenerife,,163.0,4.0,2.0,,4.0,1,0,0,1,1,1,no
+96644951,165000.0,165000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,calle doctor ramon y cajal,,50.0,1.0,1.0,1995.0,3.0,0,0,1,1,0,0,no
+96536375,210000.0,240000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,143.0,4.0,1.0,,1.0,0,1,0,0,0,1,no
+96478368,190000.0,190000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,calle enrique de las marinas,,61.0,1.0,1.0,,,1,1,1,0,0,1,no
+96422464,165000.0,165000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,calle enrique de las marinas,,41.0,1.0,1.0,,,1,1,1,0,0,1,no
+96422473,155000.0,155000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,calle enrique de las marinas,,54.0,1.0,1.0,2023.0,,1,1,1,0,0,1,no
+96278230,159500.0,165000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,75.0,2.0,1.0,,0.0,0,0,0,1,0,1,no
+95846914,270000.0,285000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,75.0,3.0,1.0,,7.0,1,0,0,0,1,1,no
+92538439,217000.0,217000.0,Professional advertiser,flat / apartment ,zona san jose - varela,san juan bosco,,54.0,1.0,1.0,,7.0,1,0,0,1,1,1,no
+96896569,180000.0,180000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,avenida de la sanidad publica,,72.0,3.0,1.0,,,0,0,1,1,0,1,no
+93863129,198000.0,230000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,114.0,3.0,1.0,,2.0,0,0,0,0,0,1,no
+96520512,190000.0,190000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,54.0,1.0,1.0,2022.0,2.0,1,0,1,1,1,0,no
+96520505,189000.0,189000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,73.0,1.0,1.0,2022.0,1.0,1,0,1,0,0,0,no
+96520502,299000.0,299000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,79.0,3.0,1.0,2022.0,1.0,1,0,1,1,1,0,central
+95600693,275000.0,275000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,93.0,3.0,1.0,,5.0,1,0,0,1,0,1,no
+96861189,380000.0,380000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,77.0,2.0,1.0,2003.0,3.0,1,0,1,1,1,0,no
+96819421,180000.0,180000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,65.0,3.0,1.0,1968.0,4.0,0,0,0,0,0,1,no
+96694960,138000.0,138000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,40.0,1.0,1.0,2021.0,0.0,1,0,0,1,0,0,no
+96710118,198000.0,198000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,114.0,3.0,1.0,2000.0,2.0,0,1,0,1,0,0,no
+96216663,399995.0,399995.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,calle valverde,,200.0,7.0,2.0,1995.0,1.0,0,0,1,1,0,1,individual
+95754889,600000.0,600000.0,Professional advertiser,duplex ,mentidero - teatro falla - alameda,calle vea murguia,,223.0,3.0,2.0,2008.0,1.0,1,0,0,1,0,1,no
+95666174,189000.0,189000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,calle vea murguia,,101.0,4.0,1.0,,3.0,0,1,0,0,0,1,no
+95614055,220000.0,220000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle sagasta,,82.0,2.0,1.0,1888.0,1.0,0,0,1,1,0,1,individual
+95571147,600000.0,600000.0,Professional advertiser,flat / apartment ,playa victoria,plaza asdrubal,,180.0,4.0,3.0,,2.0,1,0,1,1,1,1,no
+94986654,168000.0,168000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,calle sopranis,,102.0,2.0,1.0,,1.0,0,1,0,1,0,1,no
+94613996,120000.0,120000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,40.0,1.0,1.0,1994.0,0.0,0,0,0,0,0,1,no
+93835690,330000.0,330000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,calle manuel rances,,200.0,8.0,3.0,,1.0,0,1,0,0,0,1,no
+86321495,67000.0,67000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle maria arteaga,,70.0,2.0,1.0,,1.0,0,0,0,0,0,1,no
+96892905,90000.0,90000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,38.0,1.0,1.0,1888.0,0.0,0,0,0,0,0,1,no
+96864579,285000.0,285000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,75.0,2.0,1.0,,5.0,1,0,0,0,1,1,no
+96832070,156000.0,156000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,78.0,3.0,1.0,,0.0,0,0,0,0,0,1,no
+96832060,180000.0,180000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,90.0,3.0,1.0,2003.0,3.0,0,0,0,0,0,1,no
+96783429,109000.0,112000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,60.0,2.0,1.0,,0.0,1,0,0,0,0,1,no
+96734883,143000.0,150000.0,Professional advertiser,penthouse ,la caleta - la vina,unknown,,50.0,0.0,1.0,,3.0,0,0,0,0,1,1,no
+95362131,450000.0,450000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,184.0,5.0,3.0,1970.0,3.0,1,1,0,1,1,1,no
+90924812,375000.0,375000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,156.0,4.0,3.0,2003.0,12.0,1,0,1,1,0,1,no
+96643470,119000.0,119000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,63.0,2.0,1.0,1972.0,0.0,1,0,0,0,0,0,no
+96629970,285000.0,285000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,108.0,3.0,2.0,1888.0,3.0,1,1,1,1,0,0,individual
+96602250,575000.0,575000.0,Professional advertiser,flat / apartment ,cortadura - zona franca,unknown,,126.0,3.0,2.0,2019.0,7.0,1,0,1,1,1,1,central
+96571281,280000.0,280000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,125.0,3.0,2.0,1960.0,2.0,0,0,0,1,1,1,no
+96544636,120000.0,120000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,67.0,3.0,1.0,1970.0,4.0,1,0,0,0,0,0,no
+96266448,131000.0,131000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,58.0,2.0,1.0,,0.0,0,0,0,1,0,1,no
+96440774,335000.0,335000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,102.0,3.0,2.0,2003.0,1.0,1,0,1,1,0,1,central
+96380427,200000.0,200000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,100.0,4.0,1.0,1960.0,0.0,0,0,0,1,0,1,no
+96301892,950000.0,950000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,311.0,5.0,4.0,1965.0,5.0,1,0,1,1,1,1,central
+96234943,180000.0,180000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,92.0,2.0,1.0,1888.0,3.0,0,0,0,0,0,1,no
+96158217,176000.0,176000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,87.0,3.0,1.0,1888.0,2.0,0,0,0,1,0,0,no
+96087374,235000.0,235000.0,Professional advertiser,duplex ,centro historico - plaza espana,unknown,,113.0,4.0,1.0,,,0,0,0,1,1,0,no
+86403374,490000.0,490000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,152.0,3.0,2.0,,1.0,1,0,1,1,1,1,no
+95018793,325000.0,325000.0,Professional advertiser,duplex ,la caleta - la vina,unknown,,105.0,2.0,2.0,2021.0,4.0,1,0,1,1,1,0,no
+95784766,450000.0,450000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,184.0,5.0,3.0,1970.0,3.0,1,1,0,1,1,1,no
+95672433,170000.0,170000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,87.0,3.0,1.0,,2.0,0,0,1,1,0,0,no
+95649345,1300000.0,1300000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,210.0,3.0,3.0,2009.0,3.0,1,0,1,1,1,1,no
+95586343,310000.0,310000.0,Professional advertiser, detached house ,la caleta - la vina,unknown,,100.0,2.0,2.0,2021.0,,0,0,1,0,1,0,no
+95551615,500000.0,500000.0,Professional advertiser,flat / apartment ,cortadura - zona franca,unknown,,133.0,4.0,2.0,1975.0,0.0,0,0,0,0,0,0,no
+95436405,165000.0,165000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,52.0,2.0,1.0,,1.0,0,0,1,1,0,0,individual
+83872557,550000.0,550000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,288.0,5.0,3.0,,3.0,1,1,0,1,0,1,no
+87820699,250000.0,250000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,186.0,3.0,1.0,1995.0,0.0,0,0,0,0,0,1,no
+37562036,99000.0,99000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,45.0,2.0,1.0,,3.0,0,0,0,0,0,0,no
+95142947,260000.0,260000.0,Professional advertiser,penthouse ,centro historico - plaza espana,unknown,,72.0,2.0,1.0,1948.0,5.0,0,0,0,0,1,1,no
+95018785,400000.0,400000.0,Professional advertiser,duplex ,la caleta - la vina,unknown,,134.0,4.0,2.0,2021.0,4.0,1,1,1,1,1,1,no
+94901015,235000.0,235000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,107.0,3.0,1.0,1988.0,2.0,0,0,0,0,0,0,no
+94894077,350000.0,350000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,200.0,8.0,3.0,,1.0,0,1,0,1,0,1,no
+94761962,165000.0,165000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,84.0,3.0,1.0,,2.0,0,1,0,1,0,1,no
+94591218,190000.0,190000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,108.0,3.0,2.0,,2.0,0,1,0,0,0,1,no
+94684989,219000.0,219000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,74.0,2.0,1.0,2000.0,2.0,1,0,1,1,0,1,individual
+1967602,330000.0,330000.0,Private owner,flat / apartment ,centro historico - plaza espana,unknown,,189.0,4.0,2.0,,1.0,1,0,1,1,0,1,no
+94305159,480000.0,480000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,210.0,5.0,2.0,,1.0,1,0,1,1,0,1,individual
+94060225,475000.0,475000.0,Professional advertiser,duplex ,centro historico - plaza espana,unknown,,181.0,4.0,2.0,,2.0,1,1,1,1,0,1,no
+93807251,340000.0,340000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,192.0,8.0,3.0,,1.0,0,1,0,0,0,1,no
+93679198,156000.0,156000.0,Professional advertiser,duplex ,la paz - segunda aguada - loreto,unknown,,70.0,1.0,1.0,,0.0,1,0,1,0,0,1,no
+93485678,463000.0,463000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,187.0,4.0,2.0,,2.0,1,1,1,1,1,0,no
+39946142,720000.0,720000.0,Professional advertiser,flat / apartment ,playa stª mª del mar,unknown,,177.0,3.0,2.0,,2.0,1,0,1,1,0,1,individual
+93441274,615000.0,615000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,300.0,7.0,3.0,1888.0,2.0,0,1,0,1,0,1,no
+93087074,179000.0,179000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,76.0,2.0,1.0,1958.0,2.0,0,1,0,0,0,1,no
+91686610,130000.0,130000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,82.0,2.0,1.0,1888.0,2.0,0,0,0,0,0,0,no
+91588699,220000.0,220000.0,Professional advertiser,studio flat ,centro historico - plaza espana,unknown,,91.0,0.0,1.0,,0.0,0,0,1,0,0,1,no
+91214205,145000.0,145000.0,Professional advertiser,penthouse ,ayuntamiento - catedral,unknown,,27.0,1.0,1.0,1888.0,3.0,0,0,1,0,1,0,no
+90836211,350000.0,350000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,213.0,4.0,2.0,,2.0,0,1,0,1,1,1,no
+90925507,430000.0,430000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,209.0,4.0,2.0,1970.0,1.0,0,1,0,0,0,1,no
+90851131,135000.0,135000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,81.0,3.0,1.0,,2.0,0,0,0,0,0,0,no
+88992335,600000.0,600000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,207.0,4.0,2.0,,3.0,1,0,1,1,1,1,no
+88932560,475000.0,475000.0,Professional advertiser, terraced house ,zona san jose - varela,unknown,,223.0,5.0,3.0,,,0,1,1,1,1,0,no
+88620847,420000.0,420000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,138.0,4.0,3.0,,5.0,1,0,0,1,1,1,no
+88125752,130000.0,130000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,60.0,3.0,1.0,,,0,0,0,0,0,1,no
+87935374,600000.0,600000.0,Professional advertiser,flat / apartment ,zona bahia blanca,unknown,,224.0,4.0,3.0,,3.0,1,0,1,1,1,1,no
+86681628,375000.0,375000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,136.0,3.0,2.0,1968.0,0.0,1,0,1,1,0,1,central
+87358574,395000.0,395000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,151.0,4.0,3.0,,13.0,1,1,1,1,0,1,no
+87028860,750000.0,750000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,192.0,3.0,2.0,,4.0,1,0,1,1,1,0,no
+86736864,700000.0,700000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,199.0,5.0,4.0,,1.0,1,0,0,0,1,1,central
+86165655,310000.0,310000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,137.0,4.0,2.0,1888.0,2.0,1,1,0,1,0,1,no
+39805135,390000.0,390000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,141.0,4.0,2.0,1968.0,1.0,1,0,0,1,0,1,no
+39353570,800000.0,800000.0,Professional advertiser,penthouse ,playa victoria,unknown,,188.0,3.0,3.0,2009.0,7.0,1,0,1,1,1,1,no
+32275778,300000.0,300000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,140.0,4.0,2.0,1970.0,2.0,1,0,0,1,0,1,no
+96860885,520000.0,520000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,166.0,4.0,2.0,,5.0,1,0,1,1,0,1,no
+96859159,220000.0,220000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,80.0,1.0,1.0,,0.0,0,0,0,1,0,1,no
+96839047,185000.0,185000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,45.0,2.0,1.0,,1.0,1,0,0,0,0,1,no
+96723426,575000.0,575000.0,Professional advertiser,duplex ,mentidero - teatro falla - alameda,unknown,,140.0,3.0,3.0,,2.0,0,0,1,1,1,1,no
+96704796,135000.0,140000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,55.0,3.0,1.0,,3.0,0,0,0,0,0,1,no
+84433072,682500.0,682500.0,Professional advertiser, detached house ,ayuntamiento - catedral,unknown,,300.0,4.0,5.0,,,0,0,0,0,1,0,individual
+96685638,365000.0,370000.0,Professional advertiser,flat / apartment ,zona laguna,unknown,,139.0,5.0,2.0,1981.0,1.0,1,0,0,0,0,1,no
+96652341,637000.0,637000.0,Professional advertiser, house ,centro historico - plaza espana,unknown,,541.0,13.0,9.0,,,0,0,0,0,0,0,no
+96310988,245000.0,255000.0,Professional advertiser,flat / apartment ,zona laguna,unknown,,95.0,4.0,2.0,,2.0,1,0,0,0,1,1,no
+96735131,470000.0,470000.0,Professional advertiser,flat / apartment ,zona bahia blanca,calle santa cruz de tenerife,8.0,180.0,4.0,2.0,,4.0,1,0,0,1,1,1,no
+96626915,165000.0,165000.0,Professional advertiser,flat / apartment ,la caleta - la vina,zona plaza de jesus nazareno nn,,85.0,3.0,1.0,1950.0,2.0,0,0,1,0,0,0,no
+96584038,339000.0,339000.0,Professional advertiser,flat / apartment ,la caleta - la vina,playa de la caleta nn,,159.0,7.0,3.0,,1.0,1,1,0,1,1,1,no
+96442699,245000.0,250000.0,Professional advertiser,flat / apartment ,zona laguna,unknown,,84.0,4.0,2.0,1959.0,2.0,1,0,0,1,1,1,no
+95043610,290000.0,290000.0,Professional advertiser,flat / apartment ,cortadura - zona franca,glorieta cortadura,,108.0,3.0,2.0,,3.0,1,0,0,1,1,1,no
+94905189,215000.0,215000.0,Professional advertiser,flat / apartment ,cortadura - zona franca,plaza jerez de la frontera,,50.0,1.0,1.0,,1.0,1,0,0,1,0,1,no
+96335837,82200.0,82200.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,compania,,58.0,2.0,1.0,,0.0,0,0,0,1,0,0,no
+96233565,130000.0,130000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,plaza virgen del loreto,,70.0,3.0,1.0,,0.0,1,0,0,0,0,1,no
+95951489,700000.0,700000.0,Professional advertiser,flat / apartment ,playa victoria,paseo maritimo,,163.0,5.0,3.0,,7.0,1,0,1,1,1,1,no
+95648275,190000.0,190000.0,Professional advertiser,flat / apartment ,playa victoria,avenida ana de viya,,63.0,1.0,1.0,,7.0,1,0,0,1,0,0,no
+95313662,149000.0,149000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,avenida san severiano,,87.0,3.0,1.0,,2.0,1,0,0,0,1,1,no
+95112222,430000.0,430000.0,Professional advertiser,flat / apartment ,cortadura - zona franca,paseo maritimo,,86.0,2.0,2.0,,11.0,1,0,1,1,0,1,no
+91815199,104900.0,104900.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,calle garcia quijano,,55.0,2.0,1.0,1950.0,3.0,0,1,1,0,0,1,individual
+91160619,330000.0,330000.0,Professional advertiser,flat / apartment ,playa victoria,gabriel matute,,88.0,3.0,2.0,1972.0,13.0,1,0,1,1,0,1,individual
+91081081,155000.0,155000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,sacramento,,92.0,3.0,1.0,,3.0,0,0,1,1,0,1,individual
+90226919,195000.0,195000.0,Private owner,flat / apartment ,mentidero - teatro falla - alameda,calle enrique de las marinas,5.0,81.0,3.0,1.0,,0.0,1,0,0,0,0,0,no
+88673154,139000.0,139000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,calle navas,,60.0,1.0,1.0,1888.0,2.0,0,0,1,1,0,0,no
+88743094,700000.0,700000.0,Professional advertiser,flat / apartment ,playa victoria,paseo maritimo,,164.0,5.0,3.0,,7.0,1,0,0,1,1,1,no
+1654436,430000.0,430000.0,Private owner,flat / apartment ,la caleta - la vina,calle compania,6.0,247.0,8.0,3.0,1780.0,2.0,0,0,0,1,1,1,no
+96898396,330000.0,330000.0,Professional advertiser,flat / apartment ,playa victoria,avenida cayetano del toro,,120.0,2.0,2.0,,3.0,1,0,1,1,0,1,central
+95155038,650000.0,650000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,260.0,6.0,4.0,,3.0,1,1,1,1,1,1,no
+96771231,310000.0,310000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,119.0,3.0,2.0,2004.0,1.0,1,0,0,1,0,1,no
+96737777,110000.0,110000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,48.0,1.0,1.0,1994.0,,0,0,0,1,0,1,no
+85213714,98000.0,98000.0,Private owner,studio flat ,la caleta - la vina,calle maria arteaga,8.0,35.0,0.0,1.0,,2.0,0,0,1,0,1,0,individual
+96338985,615000.0,615000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,callejon del tinte,,324.0,7.0,2.0,1888.0,,0,1,0,1,0,1,no
+96169131,165000.0,168000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,88.0,3.0,2.0,1888.0,3.0,0,0,0,0,0,1,no
+94920672,325000.0,325000.0,Professional advertiser,penthouse ,la caleta - la vina,unknown,,105.0,2.0,2.0,2021.0,4.0,1,0,1,1,1,0,individual
+93627562,149350.0,176552.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle lubet,,64.0,2.0,1.0,,2.0,0,0,0,0,0,0,individual
+82272626,360000.0,360000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,plaza san juan de dios,,124.0,2.0,2.0,2006.0,1.0,1,1,1,1,0,1,no
+96865864,560000.0,560000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,140.0,4.0,2.0,,13.0,1,0,1,0,0,1,no
+96705864,169500.0,175000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,50.0,1.0,1.0,,3.0,1,0,1,1,0,0,no
+96465244,310000.0,310000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,100.0,3.0,2.0,1997.0,0.0,1,0,1,1,0,0,no
+82976729,165000.0,165000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,85.0,2.0,1.0,2010.0,0.0,0,0,0,1,0,0,no
+96336993,360000.0,360000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,150.0,4.0,2.0,1969.0,1.0,1,0,1,1,1,1,no
+96268980,210000.0,210000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,97.0,2.0,1.0,1970.0,0.0,0,0,1,1,0,0,no
+96207388,170000.0,170000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle cardoso nn,,90.0,3.0,3.0,1890.0,0.0,0,0,1,1,0,1,central
+95748510,150000.0,150000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,75.0,3.0,2.0,1969.0,1.0,0,0,0,0,0,1,no
+95811692,178000.0,178000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,100.0,3.0,1.0,1888.0,2.0,0,0,1,1,0,0,no
+95705844,213000.0,213000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,80.0,2.0,1.0,2005.0,3.0,1,0,0,1,1,0,no
+95398191,226000.0,226000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,80.0,3.0,1.0,1888.0,3.0,1,1,0,0,0,1,no
+95352437,155000.0,155000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,65.0,2.0,2.0,1970.0,0.0,0,0,0,0,0,0,no
+95365961,200000.0,200000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,100.0,4.0,1.0,1960.0,0.0,0,0,0,1,0,1,no
+95319874,320000.0,320000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,144.0,3.0,2.0,2016.0,3.0,1,0,1,0,1,1,no
+94963527,220000.0,220000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,100.0,3.0,2.0,,2.0,0,1,0,0,0,0,no
+94581007,175000.0,175000.0,Professional advertiser,flat / apartment ,zona bahia blanca,unknown,,75.0,3.0,1.0,1977.0,3.0,1,0,1,0,1,0,no
+94390922,237000.0,237000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,90.0,3.0,1.0,1976.0,3.0,1,0,0,0,1,0,no
+93960545,220000.0,220000.0,Professional advertiser,flat / apartment ,zona laguna,unknown,,87.0,2.0,2.0,1987.0,2.0,1,0,0,1,0,0,no
+93419432,135000.0,135000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,58.0,1.0,1.0,,0.0,1,0,0,0,0,0,no
+38946134,330000.0,330000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,160.0,6.0,3.0,1976.0,1.0,1,0,0,1,0,0,no
+91091954,150000.0,150000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,58.0,1.0,1.0,2006.0,0.0,1,0,1,0,0,1,no
+89217141,465000.0,465000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,169.0,5.0,3.0,1968.0,4.0,1,0,0,1,1,1,no
+89244317,590000.0,590000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,270.0,6.0,6.0,1941.0,2.0,0,1,1,1,0,1,no
+86330868,199000.0,199000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,70.0,1.0,1.0,1888.0,3.0,0,0,1,0,1,1,individual
+27219747,120000.0,120000.0,Private owner,flat / apartment ,mentidero - teatro falla - alameda,calle ahumada,7.0,60.0,2.0,1.0,,0.0,0,0,0,0,0,0,no
+96895155,210000.0,210000.0,Private owner,flat / apartment ,la caleta - la vina,calle sagasta,88.0,89.0,2.0,1.0,,1.0,0,1,0,0,0,1,no
+89321567,102000.0,102000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,66.0,2.0,1.0,,3.0,0,0,0,0,0,0,no
+96603459,195000.0,195000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,112.0,4.0,1.0,,3.0,0,1,0,1,0,1,no
+96575952,285000.0,285000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,108.0,3.0,2.0,1888.0,3.0,1,1,1,1,0,0,individual
+90569354,288000.0,288000.0,Professional advertiser,flat / apartment ,zona bahia blanca,unknown,,90.0,2.0,1.0,1972.0,5.0,1,0,0,1,0,1,no
+96537297,112000.0,112000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,66.0,3.0,1.0,1969.0,4.0,1,0,0,0,0,0,no
+38705703,220000.0,220000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,86.0,2.0,2.0,1930.0,2.0,0,0,1,1,0,1,no
+94632712,400000.0,400000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,168.0,4.0,2.0,1968.0,1.0,1,0,0,1,1,1,no
+96438063,265000.0,265000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,103.0,3.0,1.0,,1.0,1,0,1,1,1,1,no
+96412373,260000.0,260000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,95.0,4.0,2.0,,4.0,1,0,0,0,0,1,no
+96355325,99900.0,105000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,porvenir,,45.0,2.0,1.0,,2.0,0,1,0,1,0,1,no
+95180055,325000.0,325000.0,Professional advertiser,penthouse ,mentidero - teatro falla - alameda,unknown,,109.0,2.0,1.0,2008.0,1.0,1,1,1,1,1,1,central
+96053348,239000.0,239000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,97.0,3.0,1.0,,3.0,0,1,1,1,0,1,individual
+95923365,165000.0,165000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,84.0,3.0,1.0,1888.0,2.0,0,1,0,1,0,1,no
+95900253,210000.0,210000.0,Professional advertiser,penthouse ,la caleta - la vina,unknown,,77.0,2.0,1.0,,3.0,0,0,1,1,1,0,no
+91781403,125000.0,125000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,55.0,2.0,1.0,1957.0,0.0,1,0,0,0,0,1,no
+95853827,225000.0,225000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,81.0,3.0,1.0,1995.0,3.0,1,1,0,1,0,1,no
+95820258,225000.0,225000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,81.0,3.0,1.0,,3.0,1,1,0,1,0,1,no
+95815522,325000.0,325000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,90.0,3.0,2.0,,13.0,1,0,0,1,0,1,no
+95813418,380000.0,380000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,150.0,4.0,3.0,,1.0,1,0,0,1,0,1,no
+95793958,168000.0,168000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,75.0,3.0,1.0,1800.0,0.0,0,0,0,1,0,1,no
+95773510,210000.0,210000.0,Professional advertiser,penthouse ,la caleta - la vina,unknown,,97.0,2.0,1.0,,3.0,0,0,1,1,1,1,no
+95742809,155000.0,155000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,93.0,3.0,1.0,1888.0,3.0,0,0,1,1,0,0,individual
+94049104,450000.0,450000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,151.0,3.0,2.0,,2.0,1,0,1,1,0,1,central
+95487221,269000.0,269000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,calle carraca,1.0,130.0,3.0,2.0,,1.0,1,0,1,1,1,1,no
+95365247,129000.0,129000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,71.0,1.0,1.0,,0.0,0,0,0,0,0,0,no
+95267370,465000.0,465000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,153.0,4.0,2.0,,2.0,1,0,1,1,0,1,no
+95121596,170000.0,170000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,117.0,2.0,2.0,2021.0,0.0,1,0,0,1,0,0,no
+94908535,126000.0,126000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,70.0,2.0,1.0,,3.0,0,1,0,0,0,1,no
+94667096,165000.0,165000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,85.0,3.0,1.0,1973.0,7.0,1,0,1,0,0,1,no
+94043069,245000.0,245000.0,Professional advertiser,flat / apartment ,cortadura - zona franca,unknown,,80.0,3.0,1.0,2000.0,6.0,1,1,0,1,1,1,no
+94014063,150400.0,150400.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,90.0,2.0,2.0,1995.0,1.0,0,0,0,0,0,0,no
+93434290,109200.0,109200.0,Professional advertiser,penthouse ,la caleta - la vina,unknown,,41.0,1.0,1.0,1888.0,3.0,0,0,1,1,0,1,no
+93681136,169000.0,169000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,105.0,4.0,1.0,,1.0,0,1,0,1,0,1,no
+93618595,275000.0,275000.0,Private owner,flat / apartment ,zona san jose - varela,calle granja san ildefonso,5.0,92.0,3.0,1.0,1970.0,4.0,1,0,0,1,1,1,no
+82693873,360000.0,360000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,124.0,2.0,2.0,1900.0,1.0,0,1,0,1,0,1,individual
+93241011,325000.0,325000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,130.0,4.0,2.0,1985.0,1.0,1,1,1,1,1,1,no
+92954719,560000.0,560000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,124.0,4.0,2.0,,13.0,1,0,1,1,1,1,no
+92393350,315000.0,315000.0,Professional advertiser,flat / apartment ,zona bahia blanca,unknown,,115.0,3.0,2.0,1990.0,2.0,1,1,1,0,1,1,no
+91829364,460000.0,460000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,230.0,6.0,3.0,,3.0,1,0,0,1,1,1,no
+96849835,240000.0,240000.0,Professional advertiser,flat / apartment ,zona san jose - varela,calle garcia carrera,,93.0,3.0,2.0,1981.0,1.0,1,0,1,1,1,1,no
+96843972,200000.0,200000.0,Professional advertiser,penthouse ,la paz - segunda aguada - loreto,calle carraca,,62.0,2.0,1.0,2008.0,3.0,1,0,1,1,1,1,no
+96819227,950000.0,950000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,120.0,3.0,2.0,1977.0,12.0,1,0,1,1,1,1,no
+93399259,380000.0,380000.0,Professional advertiser,flat / apartment ,zona san jose - varela,calle juan ramon jimenez,,157.0,4.0,3.0,,1.0,1,0,0,1,1,1,no
+96796581,255000.0,255000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,100.0,3.0,1.0,,,0,0,0,0,0,0,no
+96740959,470000.0,470000.0,Professional advertiser,flat / apartment ,zona bahia blanca,unknown,,160.0,4.0,2.0,,4.0,1,0,0,1,1,1,no
+96691035,176000.0,176000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,103.0,3.0,1.0,1888.0,2.0,0,0,0,0,0,0,no
+93814105,198000.0,215000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,114.0,3.0,1.0,,2.0,0,1,0,1,0,1,no
+96661714,198000.0,198000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,111.0,3.0,1.0,1888.0,2.0,0,1,0,0,0,1,no
+96652668,310000.0,310000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,86.0,3.0,2.0,1997.0,0.0,1,0,0,1,0,0,no
+96640220,200000.0,200000.0,Professional advertiser,penthouse ,la caleta - la vina,calle san felix,,55.0,1.0,1.0,2009.0,3.0,1,0,1,1,1,1,no
+96618696,465000.0,465000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,155.0,5.0,3.0,,3.0,1,0,1,1,1,1,no
+96612924,180000.0,180000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,92.0,2.0,1.0,,3.0,0,1,0,1,1,1,no
+96530116,365000.0,365000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,143.0,4.0,2.0,,1.0,1,0,0,1,1,1,no
+96529994,223000.0,223000.0,Professional advertiser,duplex ,playa stª mª del mar,unknown,,70.0,2.0,1.0,,0.0,0,0,1,1,0,1,no
+96528613,240000.0,240000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,118.0,3.0,2.0,,1.0,0,0,0,0,0,1,no
+96519050,285000.0,285000.0,Professional advertiser,duplex ,ayuntamiento - catedral,unknown,,79.0,1.0,1.0,,1.0,0,0,0,1,1,1,no
+94491346,230000.0,245000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,98.0,3.0,1.0,,1.0,1,0,0,1,1,1,no
+96165722,475000.0,475000.0,Professional advertiser,duplex ,mentidero - teatro falla - alameda,unknown,,187.0,4.0,2.0,,2.0,1,1,1,1,0,1,no
+95931857,550000.0,550000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,151.0,3.0,2.0,,4.0,1,1,1,1,1,1,no
+95861905,310000.0,310000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,147.0,3.0,2.0,,2.0,1,0,1,1,0,1,no
+81782132,225000.0,225000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,80.0,3.0,1.0,,1.0,1,0,0,1,0,1,no
+95800252,142000.0,142000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,66.0,2.0,1.0,,0.0,1,0,0,1,0,0,no
+95779755,615000.0,615000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,306.0,7.0,3.0,,2.0,0,1,0,0,0,1,no
+85255959,720000.0,720000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,195.0,3.0,2.0,,4.0,1,0,1,0,1,1,no
+92583093,450000.0,450000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,125.0,3.0,2.0,,3.0,1,0,1,1,0,1,no
+91509269,510000.0,510000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,108.0,3.0,2.0,,1.0,1,0,1,1,1,1,no
+91383379,1000000.0,1000000.0,Professional advertiser,penthouse ,playa victoria,unknown,,210.0,3.0,2.0,,12.0,1,0,1,1,1,1,no
+86986943,500000.0,500000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,240.0,4.0,3.0,,1.0,0,0,0,0,0,1,no
+85802737,375000.0,375000.0,Professional advertiser,flat / apartment ,zona laguna,unknown,,87.0,3.0,2.0,,3.0,1,0,1,1,0,1,no
+84819520,680000.0,680000.0,Professional advertiser,duplex ,zona san jose - varela,unknown,,200.0,4.0,3.0,,4.0,1,0,0,1,1,1,individual
+93349537,350000.0,370000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,180.0,4.0,2.0,,3.0,1,1,0,1,0,1,no
+96468909,183900.0,183900.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,81.0,3.0,1.0,,3.0,0,0,0,0,0,0,no
+96463130,225000.0,225000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,80.0,3.0,1.0,,3.0,1,1,0,1,0,0,no
+81306021,225000.0,225000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,80.0,3.0,1.0,,1.0,1,0,0,1,0,1,no
+96889529,228000.0,228000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,100.0,3.0,1.0,,3.0,1,0,1,0,0,1,no
+86135642,190000.0,210000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,75.0,2.0,1.0,2006.0,0.0,1,0,0,1,0,0,no
+96470573,245000.0,245000.0,Private owner,flat / apartment ,zona san jose - varela,calle fantasia betica,2.0,84.0,3.0,1.0,1964.0,5.0,1,0,1,0,1,1,individual
+95994341,153000.0,153000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,63.0,2.0,1.0,1888.0,0.0,0,0,0,0,0,0,no
+95994337,163000.0,163000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,89.0,3.0,1.0,1888.0,0.0,0,0,0,0,0,0,no
+95857128,114000.0,114000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,49.0,2.0,1.0,,,0,0,0,0,0,0,no
+95768929,460000.0,460000.0,Private owner,flat / apartment ,centro historico - plaza espana,calle san miguel,2.0,250.0,4.0,2.0,1888.0,1.0,1,1,1,1,1,1,central
+95644462,375000.0,375000.0,,flat / apartment ,zona san jose - varela,calle parlamento,9.0,175.0,3.0,1.0,,0.0,1,0,1,1,1,1,no
+95588215,150000.0,150000.0,Professional advertiser,studio flat ,centro historico - plaza espana,unknown,,64.0,0.0,1.0,,0.0,0,0,0,0,0,1,no
+95588096,160000.0,160000.0,Professional advertiser,studio flat ,centro historico - plaza espana,unknown,,89.0,0.0,1.0,,0.0,0,0,0,0,0,1,no
+95545206,171000.0,171000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,85.0,3.0,1.0,1888.0,3.0,0,1,0,1,0,1,no
+95488307,108000.0,108000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,99.0,3.0,1.0,1888.0,0.0,0,0,0,0,0,0,no
+84186908,550000.0,550000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,188.0,5.0,2.0,,6.0,1,0,0,0,0,1,no
+95209349,186000.0,192000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle del hermano ignacio,,110.0,4.0,1.0,1880.0,1.0,0,0,0,0,1,1,no
+95107844,320000.0,320000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,avenida san severiano,45.0,140.0,3.0,2.0,2015.0,3.0,1,1,1,1,0,1,no
+94959294,259000.0,270000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,183.0,4.0,1.0,,1.0,0,0,0,1,1,1,no
+95084503,225000.0,225000.0,Private owner,flat / apartment ,mentidero - teatro falla - alameda,calle hercules,8.0,80.0,3.0,1.0,,3.0,1,1,0,1,0,1,no
+26393730,425000.0,425000.0,Private owner,flat / apartment ,playa victoria,avenida ana de viya,26.0,135.0,3.0,2.0,,5.0,1,0,1,1,1,1,individual
+93627397,216993.0,216993.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,calle plocia,,112.0,3.0,2.0,1888.0,3.0,0,0,0,0,0,0,individual
+93275934,145000.0,145000.0,Private owner,flat / apartment ,la caleta - la vina,calle cardoso,34.0,82.0,2.0,2.0,1888.0,2.0,0,1,0,0,1,1,no
+90742594,167000.0,167000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,65.0,2.0,1.0,1888.0,3.0,0,1,1,1,0,1,no
+92203485,595000.0,595000.0,,flat / apartment ,playa stª mª del mar,calle santa maria soledad,4.0,163.0,3.0,1.0,2014.0,0.0,1,0,1,1,1,1,no
+92089717,490000.0,490000.0,Private owner,flat / apartment ,playa victoria,plaza asdrubal,1.0,130.0,4.0,2.0,,7.0,1,1,1,1,1,1,central
+91725317,490000.0,490000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,107.0,3.0,2.0,2001.0,1.0,1,0,1,1,1,1,no
+91594879,350000.0,350000.0,Private owner,flat / apartment ,la caleta - la vina,calle pericon de cadiz,37.0,110.0,3.0,2.0,,3.0,0,0,1,1,0,1,central
+91283403,210000.0,210000.0,Private owner,penthouse ,la caleta - la vina,calle torre,58.0,97.0,2.0,1.0,,3.0,0,0,1,1,1,1,no
+85520928,680000.0,680000.0,Private owner,penthouse ,zona san jose - varela,avenida portugal,37.0,262.0,4.0,3.0,2001.0,4.0,1,1,0,1,1,1,individual
+37343919,700000.0,700000.0,Private owner,penthouse ,playa victoria,plaza montevideo,1.0,145.0,3.0,3.0,,5.0,1,0,1,1,1,1,no
+96853151,200000.0,200000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,85.0,2.0,1.0,,1.0,0,1,0,1,0,1,no
+96847177,190000.0,190000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,112.0,4.0,1.0,1942.0,3.0,0,1,0,1,0,1,no
+96806040,190000.0,190000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,112.0,4.0,1.0,,3.0,0,0,0,1,0,1,no
+96789298,120000.0,120000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,53.0,3.0,1.0,,2.0,0,1,0,0,0,1,no
+96778432,155000.0,155000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,75.0,2.0,1.0,1960.0,2.0,0,0,0,1,0,0,no
+96733103,470000.0,470000.0,Professional advertiser,flat / apartment ,zona bahia blanca,unknown,,160.0,4.0,2.0,,4.0,1,0,0,0,0,1,no
+96728787,160000.0,160000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,49.0,2.0,1.0,,3.0,0,0,1,0,0,1,no
+96685639,295000.0,295000.0,Professional advertiser,flat / apartment ,zona laguna,unknown,,88.0,3.0,1.0,1971.0,2.0,1,0,1,1,1,1,no
+96657593,160000.0,160000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,65.0,2.0,1.0,,2.0,0,0,0,1,0,1,no
+96648491,115000.0,115000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,53.0,1.0,1.0,,,0,0,0,1,0,1,no
+96582489,200000.0,200000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,115.0,4.0,1.0,1981.0,3.0,0,1,0,1,0,1,no
+96571267,318000.0,318000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,92.0,4.0,2.0,,1.0,1,0,0,0,1,1,no
+95507624,240000.0,240000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,58.0,1.0,1.0,2021.0,5.0,1,0,0,1,1,1,no
+94097334,236900.0,236900.0,Professional advertiser,flat / apartment ,zona bahia blanca,unknown,,90.0,3.0,1.0,1977.0,3.0,1,0,1,0,0,1,no
+96059755,155000.0,155000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,san jose,49.0,73.0,2.0,2.0,,3.0,0,0,1,1,0,0,no
+95107511,285000.0,285000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,110.0,3.0,2.0,,3.0,1,1,1,1,0,1,no
+95721714,465000.0,465000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,170.0,5.0,3.0,,4.0,1,0,1,1,1,1,no
+94826230,198000.0,198000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,calle plocia,,74.0,2.0,1.0,,1.0,1,0,0,0,0,0,no
+81474600,765000.0,765000.0,Professional advertiser,penthouse ,playa victoria,unknown,,230.0,5.0,3.0,,12.0,1,0,1,1,1,1,no
+96735086,149900.0,149900.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,avenida segunda aguada,,65.0,3.0,1.0,,0.0,1,0,0,0,0,0,no
+96618113,285000.0,285000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,108.0,3.0,2.0,1888.0,3.0,1,1,1,1,0,0,individual
+96612990,150000.0,150000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,75.0,2.0,1.0,,1.0,0,0,0,0,1,0,no
+96612989,190000.0,190000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,102.0,3.0,1.0,1888.0,4.0,0,0,0,0,0,1,no
+96609070,165000.0,165000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,65.0,2.0,1.0,,0.0,0,0,1,1,0,1,no
+96500079,223000.0,223000.0,Professional advertiser,flat / apartment ,playa stª mª del mar,unknown,,70.0,2.0,1.0,1978.0,0.0,0,0,1,0,0,1,no
+96538483,465000.0,465000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,165.0,4.0,2.0,1990.0,2.0,1,0,0,1,0,1,no
+93737881,185000.0,185000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,120.0,4.0,1.0,,3.0,0,1,0,0,0,1,no
+96505782,150000.0,150000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,75.0,3.0,1.0,,1.0,0,0,0,1,1,0,no
+96412547,155000.0,155000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,calle santiago,,68.0,2.0,1.0,1888.0,2.0,0,0,1,0,0,0,no
+96388566,175000.0,175000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,97.0,4.0,2.0,,2.0,0,1,0,0,0,1,no
+96306306,580000.0,580000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,182.0,4.0,3.0,,2.0,1,1,1,1,0,1,no
+96262959,240000.0,250000.0,Private owner,flat / apartment ,zona laguna,plaza madrid,3.0,95.0,4.0,2.0,,2.0,1,1,0,1,1,1,no
+96279016,330000.0,330000.0,Professional advertiser, terraced house ,zona san jose - varela,unknown,,115.0,4.0,2.0,1994.0,,0,1,0,1,1,0,no
+96237889,507000.0,507000.0,Professional advertiser, house ,centro historico - plaza espana,calle sagasta,,139.0,1.0,1.0,,,0,0,0,0,0,0,individual
+96193439,185000.0,185000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,99.0,4.0,2.0,1987.0,1.0,0,0,0,0,1,1,no
+96114103,180000.0,180000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,92.0,2.0,1.0,1888.0,3.0,0,0,0,1,0,1,no
+96053739,530000.0,530000.0,Professional advertiser,flat / apartment ,zona bahia blanca,unknown,,220.0,4.0,3.0,1981.0,3.0,1,0,1,1,0,1,no
+96023725,170000.0,170000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,52.0,1.0,1.0,2009.0,0.0,0,0,1,1,1,1,no
+96023728,150000.0,150000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,52.0,1.0,1.0,1995.0,3.0,0,0,1,1,1,1,no
+96037544,197000.0,197000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,73.0,1.0,1.0,1995.0,3.0,0,0,1,1,1,1,no
+96041004,320000.0,320000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,140.0,3.0,2.0,,3.0,1,1,1,1,0,1,no
+96035772,173500.0,173500.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,70.0,3.0,1.0,1958.0,2.0,0,1,0,0,1,1,no
+95810386,129000.0,129000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,70.0,1.0,1.0,2001.0,0.0,0,0,0,0,0,0,no
+95810376,330000.0,330000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,192.0,8.0,3.0,1995.0,1.0,0,1,0,1,0,1,no
+95794294,465000.0,465000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,198.0,4.0,2.0,1985.0,2.0,1,1,0,1,0,1,no
+95714797,350000.0,350000.0,Professional advertiser,flat / apartment ,zona san jose - varela,calle tarsis,,120.0,4.0,2.0,,1.0,1,0,0,0,1,1,no
+95637830,700000.0,700000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,154.0,3.0,3.0,2008.0,5.0,1,0,1,1,1,1,no
+95679363,390000.0,390000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,135.0,3.0,2.0,1977.0,1.0,1,0,1,1,0,1,no
+95679365,475000.0,475000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,108.0,3.0,2.0,2001.0,1.0,1,0,1,1,1,1,no
+95654924,335000.0,335000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,102.0,3.0,2.0,2003.0,1.0,1,0,1,1,0,1,central
+95623797,85000.0,85000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,48.0,3.0,1.0,1959.0,1.0,1,0,0,0,0,1,no
+95603902,525000.0,525000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,133.0,4.0,2.0,1970.0,9.0,1,0,0,1,1,1,no
+95546405,269000.0,269000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,calle real,,135.0,3.0,2.0,2020.0,1.0,1,0,0,1,0,1,no
+95200413,525000.0,525000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,150.0,4.0,2.0,1980.0,4.0,1,0,0,1,1,1,no
+94999343,400000.0,400000.0,Professional advertiser,duplex ,la caleta - la vina,unknown,,155.0,4.0,2.0,,4.0,1,1,1,1,1,1,no
+94859734,165000.0,165000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,84.0,3.0,1.0,1888.0,2.0,0,1,0,1,0,1,no
+94558073,350000.0,350000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,188.0,4.0,3.0,,2.0,0,1,0,0,1,1,no
+90265785,132000.0,132000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,61.0,2.0,1.0,2003.0,0.0,0,0,0,0,0,0,no
+93457911,139000.0,139000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,calle carraca,,84.0,2.0,1.0,2008.0,0.0,1,0,0,1,0,0,no
+93852777,450000.0,450000.0,Professional advertiser, terraced house ,la caleta - la vina,unknown,,280.0,7.0,4.0,1995.0,,0,1,0,0,1,0,no
+93748172,190000.0,190000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,120.0,5.0,1.0,1995.0,1.0,0,0,1,1,0,0,no
+89811546,320000.0,320000.0,Professional advertiser,flat / apartment ,cortadura - zona franca,avenida jose leon de carranza,,69.0,2.0,1.0,1984.0,10.0,1,0,0,0,0,0,no
+92510690,800000.0,800000.0,Professional advertiser,penthouse ,mentidero - teatro falla - alameda,unknown,,245.0,6.0,4.0,2004.0,3.0,1,1,1,1,1,1,no
+91963139,300000.0,300000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,200.0,5.0,2.0,,1.0,0,1,0,1,1,1,no
+91550472,600000.0,600000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,140.0,5.0,2.0,1980.0,10.0,1,0,0,1,1,1,no
+86862331,425000.0,425000.0,Professional advertiser,penthouse ,centro historico - plaza espana,unknown,,142.0,3.0,2.0,2021.0,4.0,1,0,1,0,1,1,individual
+90936314,187000.0,187000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,75.0,2.0,1.0,1995.0,2.0,0,0,1,0,0,1,no
+91072809,210000.0,210000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle venezuela,,111.0,3.0,1.0,,6.0,1,0,0,0,0,0,no
+39317628,145000.0,145000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,48.0,2.0,1.0,1888.0,1.0,0,0,0,0,0,1,no
+88744570,250000.0,250000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,calle manuel rances,,115.0,3.0,1.0,1888.0,1.0,0,1,0,0,0,1,no
+86356954,400000.0,400000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,138.0,4.0,2.0,1979.0,4.0,1,0,0,1,1,1,no
+38507956,500000.0,500000.0,Professional advertiser,flat / apartment ,cortadura - zona franca,paseo maritimo,,150.0,4.0,2.0,,2.0,1,0,0,1,0,1,no
+96815058,420000.0,457000.0,Private owner,flat / apartment ,playa victoria,avenida ana de viya,4.0,150.0,4.0,2.0,1983.0,3.0,1,0,0,1,0,1,no
+96713996,110000.0,120000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,50.0,1.0,1.0,,,0,0,0,1,0,1,no
+96612882,220000.0,225000.0,Professional advertiser,flat / apartment ,zona laguna,unknown,,84.0,2.0,2.0,,2.0,1,0,0,1,0,0,no
+95107897,155000.0,155000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,calle sacramento,,92.0,3.0,1.0,,3.0,0,1,0,1,0,1,no
+93033616,210000.0,210000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,calle sopranis,,78.0,2.0,1.0,2008.0,2.0,1,1,0,1,0,1,no
+95126974,775000.0,790000.0,Private owner,flat / apartment ,playa stª mª del mar,unknown,,300.0,5.0,3.0,,2.0,1,1,0,1,1,1,no
+93198435,164383.0,164383.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle lubet,,73.0,2.0,1.0,,1.0,0,0,0,0,0,0,individual
+96812589,250000.0,250000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,plaza de san francisco,,135.0,3.0,2.0,,1.0,1,1,0,0,0,1,no
+96746306,111000.0,111000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,64.0,2.0,1.0,1964.0,0.0,1,0,1,1,0,0,no
+96208908,170000.0,170000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,calle sacramento,,76.0,3.0,1.0,1995.0,0.0,0,0,0,0,0,1,no
+94580123,175000.0,175000.0,Professional advertiser,flat / apartment ,zona bahia blanca,calle tolosa latour,,75.0,3.0,1.0,1977.0,3.0,1,0,0,1,1,1,no
+91477973,300000.0,300000.0,Professional advertiser,flat / apartment ,zona san jose - varela,calle huerta del obispo,,95.0,3.0,2.0,,3.0,1,0,0,1,1,1,no
+91090879,225500.0,225500.0,Professional advertiser,flat / apartment ,zona san jose - varela,brunete,,95.0,3.0,1.0,,1.0,1,0,0,1,1,1,no
+89915419,45000.0,45000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle sagasta,,50.0,1.0,1.0,,0.0,0,0,0,0,0,0,no
+89692606,330000.0,330000.0,Professional advertiser,flat / apartment ,la caleta - la vina,avenida duque de najera,,180.0,7.0,3.0,,1.0,1,0,0,1,1,1,no
+96692560,165000.0,165000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,73.0,2.0,1.0,1995.0,2.0,0,0,0,0,0,1,no
+96686484,199000.0,199000.0,Professional advertiser,penthouse ,mentidero - teatro falla - alameda,unknown,,43.0,1.0,1.0,2020.0,3.0,1,0,1,0,1,1,individual
+95813510,390000.0,390000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,131.0,3.0,2.0,1899.0,3.0,1,1,0,1,1,0,individual
+96659972,160000.0,160000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,65.0,2.0,1.0,,3.0,0,0,1,0,1,1,no
+87778348,495000.0,495000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,170.0,5.0,4.0,1970.0,4.0,1,0,0,1,1,0,no
+96584078,199000.0,250000.0,Professional advertiser,penthouse ,la paz - segunda aguada - loreto,avenida de la bahia,,64.0,3.0,1.0,1969.0,12.0,1,0,0,1,0,1,no
+89313709,225000.0,225000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,80.0,3.0,1.0,,1.0,1,0,0,0,0,1,no
+96533664,195000.0,195000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,108.0,3.0,1.0,1988.0,,0,1,0,0,0,1,no
+96527804,235000.0,235000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,118.0,3.0,2.0,,1.0,0,1,0,0,0,1,no
+96447195,250000.0,250000.0,Professional advertiser,flat / apartment ,zona laguna,unknown,,95.0,4.0,2.0,,2.0,1,0,0,1,1,1,no
+96520017,170000.0,170000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,120.0,3.0,1.0,1988.0,1.0,0,0,0,0,0,1,no
+88546208,235000.0,235000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,81.0,3.0,1.0,,3.0,1,0,0,1,0,1,no
+95503801,205000.0,205000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,86.0,3.0,1.0,,1.0,1,0,0,0,0,1,no
+96419230,105000.0,105000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,52.0,1.0,1.0,2021.0,0.0,1,0,0,1,0,0,no
+95185268,223000.0,223000.0,Professional advertiser,flat / apartment ,playa stª mª del mar,unknown,,70.0,2.0,1.0,,0.0,1,0,1,1,0,1,no
+96322557,138000.0,138000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,52.0,1.0,1.0,1888.0,3.0,0,1,1,0,0,1,no
+96316806,180000.0,180000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,68.0,3.0,1.0,1968.0,4.0,1,0,0,0,0,1,no
+96246411,259000.0,259000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,102.0,3.0,2.0,1961.0,1.0,1,0,1,1,1,1,individual
+96234299,121800.0,121800.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,58.0,1.0,1.0,,1.0,0,0,0,1,0,1,no
+96228839,235000.0,235000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,116.0,3.0,2.0,,1.0,1,1,0,1,0,1,no
+96214762,400000.0,400000.0,Professional advertiser,duplex ,la caleta - la vina,unknown,,155.0,4.0,2.0,2021.0,4.0,0,0,1,1,1,0,no
+96115394,99000.0,99000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,49.0,2.0,1.0,1888.0,3.0,0,0,0,1,0,0,no
+96087460,245000.0,245000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,100.0,3.0,2.0,,2.0,1,0,0,1,0,1,no
+96087375,198000.0,198000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,109.0,3.0,2.0,,,0,0,0,0,0,0,no
+96014387,245000.0,245000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,100.0,3.0,2.0,,2.0,1,0,0,1,0,1,no
+93425103,170000.0,170000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,105.0,3.0,1.0,1940.0,2.0,0,1,0,0,0,1,no
+95932163,277000.0,277000.0,Professional advertiser,duplex ,centro historico - plaza espana,unknown,,112.0,3.0,1.0,2010.0,1.0,1,0,0,0,0,0,no
+95846129,169000.0,169000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,92.0,2.0,1.0,,1.0,0,1,0,0,0,1,no
+95786933,223000.0,223000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,104.0,3.0,2.0,,3.0,0,0,1,1,0,1,no
+95727567,168000.0,168000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,96.0,4.0,1.0,1955.0,3.0,0,1,0,0,0,1,no
+95681679,250000.0,250000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,91.0,4.0,2.0,,0.0,1,0,0,1,0,1,no
+95462722,250000.0,250000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,71.0,2.0,1.0,2017.0,2.0,1,0,1,1,0,1,no
+95377332,235000.0,235000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,107.0,3.0,1.0,,2.0,0,0,1,1,0,1,individual
+90377303,240000.0,240000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,120.0,3.0,2.0,1995.0,3.0,0,1,1,1,0,1,no
+95330405,135000.0,135000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,65.0,2.0,1.0,1888.0,0.0,0,0,0,1,0,0,no
+95299152,200000.0,200000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,102.0,4.0,1.0,,0.0,0,0,0,1,0,1,no
+95286027,550000.0,550000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,169.0,5.0,2.0,,6.0,1,1,0,0,0,1,no
+95219248,138000.0,138000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,58.0,2.0,1.0,,2.0,0,0,0,0,0,1,no
+95155926,165000.0,165000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,85.0,3.0,1.0,1973.0,7.0,1,0,0,0,0,1,no
+90117903,228000.0,228000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,78.0,3.0,1.0,1975.0,1.0,1,0,0,0,1,1,no
+95134856,225000.0,225000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,80.0,3.0,1.0,,3.0,1,1,0,0,0,1,no
+34005525,720000.0,720000.0,Professional advertiser,duplex ,playa victoria,unknown,,150.0,3.0,3.0,2010.0,5.0,1,0,1,1,1,1,no
+95018777,170000.0,170000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,101.0,2.0,2.0,2021.0,0.0,1,0,0,1,0,0,no
+95003224,200000.0,200000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,95.0,3.0,2.0,2001.0,1.0,0,1,0,1,0,1,no
+94991359,170000.0,170000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,98.0,2.0,2.0,2021.0,0.0,1,1,0,1,0,1,no
+94643365,220000.0,220000.0,Professional advertiser,penthouse ,ayuntamiento - catedral,unknown,,41.0,1.0,1.0,2007.0,4.0,1,0,0,0,1,1,no
+94426165,327500.0,327500.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,198.0,4.0,2.0,2003.0,1.0,1,1,1,1,0,1,no
+94388712,248000.0,248000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,77.0,2.0,1.0,2006.0,2.0,1,0,0,1,0,1,no
+94079521,210000.0,210000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,120.0,3.0,1.0,,1.0,0,0,0,0,0,0,no
+88568991,220000.0,220000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,90.0,3.0,1.0,,2.0,1,0,0,1,0,1,no
+93789918,750000.0,750000.0,Professional advertiser,flat / apartment ,cortadura - zona franca,unknown,,188.0,5.0,3.0,1989.0,2.0,1,0,0,1,0,1,no
+93548685,230000.0,230000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,129.0,3.0,1.0,,2.0,0,1,0,1,0,0,no
+93370512,143000.0,143000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,54.0,1.0,1.0,1888.0,0.0,1,0,0,1,0,0,no
+93363640,135000.0,135000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,67.0,1.0,1.0,2001.0,0.0,0,0,0,1,0,1,no
+92754373,600000.0,600000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,222.0,6.0,3.0,,2.0,1,1,0,1,1,1,no
+91757124,800000.0,800000.0,Professional advertiser,penthouse ,mentidero - teatro falla - alameda,unknown,,280.0,6.0,4.0,,3.0,1,1,1,1,1,1,no
+91504102,156000.0,156000.0,Professional advertiser,duplex ,la paz - segunda aguada - loreto,unknown,,53.0,1.0,1.0,2004.0,0.0,1,0,1,1,0,1,no
+90588974,120000.0,120000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,55.0,2.0,1.0,1888.0,1.0,0,1,0,0,0,1,no
+90068965,206000.0,206000.0,Professional advertiser,duplex ,centro historico - plaza espana,unknown,,100.0,2.0,2.0,,0.0,1,1,1,1,0,0,no
+89091061,237000.0,237000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,93.0,3.0,1.0,,2.0,1,1,0,0,0,1,no
+89066840,220000.0,220000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,90.0,2.0,1.0,,1.0,1,0,1,1,0,0,no
+88928426,199000.0,199000.0,Professional advertiser,duplex ,mentidero - teatro falla - alameda,unknown,,69.0,2.0,1.0,,3.0,0,0,1,0,1,0,no
+88488947,79000.0,79000.0,Professional advertiser,studio flat ,mentidero - teatro falla - alameda,unknown,,30.0,0.0,1.0,,4.0,0,0,0,0,0,1,individual
+88309565,220000.0,220000.0,Professional advertiser,studio flat ,centro historico - plaza espana,unknown,,80.0,0.0,1.0,1888.0,0.0,0,1,0,1,0,1,no
+86306710,195000.0,195000.0,Professional advertiser,penthouse ,mentidero - teatro falla - alameda,unknown,,70.0,1.0,1.0,,3.0,0,0,0,1,1,1,no
+81410613,725000.0,725000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,185.0,5.0,4.0,1981.0,7.0,1,1,0,1,1,1,no
+40315309,199000.0,199000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,44.0,1.0,1.0,,8.0,1,0,1,1,0,1,no
+96860501,265000.0,265000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,85.0,2.0,2.0,,5.0,1,0,0,1,1,1,no
+96839285,170000.0,170000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,70.0,1.0,1.0,,2.0,1,0,0,1,1,1,no
+96806293,159000.0,159000.0,Professional advertiser,flat / apartment ,zona laguna,unknown,,60.0,3.0,1.0,1964.0,3.0,0,0,0,0,0,1,no
+91540365,350000.0,370000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,200.0,5.0,2.0,1888.0,3.0,1,1,0,1,0,1,no
+96717070,105000.0,105000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,55.0,2.0,1.0,1888.0,1.0,0,1,0,0,0,1,no
+40166983,185000.0,185000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,80.0,3.0,1.0,,1.0,0,0,0,0,0,1,no
+96652349,674000.0,674000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,155.0,5.0,3.0,,7.0,1,0,0,0,1,1,no
+96652309,245000.0,245000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,87.0,3.0,2.0,,2.0,1,0,0,0,0,1,no
+86322312,199000.0,199000.0,Professional advertiser,penthouse ,mentidero - teatro falla - alameda,unknown,,70.0,1.0,1.0,,3.0,0,0,0,1,0,1,no
+96545422,95000.0,95000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,54.0,2.0,1.0,,3.0,0,0,0,0,1,1,no
+95431934,184000.0,184000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,81.0,3.0,1.0,,3.0,0,1,0,0,0,1,no
+95517607,360000.0,360000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,120.0,4.0,2.0,,1.0,1,0,1,0,0,0,no
+95547272,285000.0,285000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,108.0,3.0,2.0,1888.0,3.0,1,0,1,0,0,0,no
+95434992,150000.0,150000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,93.0,3.0,1.0,,3.0,0,1,1,1,0,1,no
+95430124,90750.0,90750.0,Professional advertiser,studio flat ,ayuntamiento - catedral,gloria,,30.0,0.0,1.0,2021.0,3.0,1,0,0,0,1,1,no
+95314707,180000.0,180000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,88.0,2.0,1.0,,3.0,0,1,0,1,1,1,no
+95287988,245000.0,245000.0,Professional advertiser,duplex ,cortadura - zona franca,unknown,,147.0,4.0,3.0,1979.0,4.0,1,0,1,1,1,1,no
+95259604,330176.0,330176.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,99.0,3.0,2.0,2021.0,1.0,1,0,1,1,1,1,no
+95259193,352485.0,352485.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,102.0,3.0,2.0,2021.0,1.0,1,0,1,1,1,1,no
+95258458,283393.0,283393.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,89.0,3.0,2.0,2021.0,2.0,1,0,1,1,0,0,no
+95258215,244425.0,244425.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,82.0,2.0,2.0,2021.0,0.0,1,0,1,1,0,1,no
+94566815,450000.0,450000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,155.0,5.0,3.0,1968.0,4.0,1,0,1,1,1,1,no
+93494871,245000.0,245000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,86.0,3.0,1.0,1969.0,3.0,1,0,0,1,0,1,no
+92087510,490000.0,490000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,97.0,3.0,2.0,,1.0,1,0,0,1,1,1,no
+91575256,299000.0,299000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,135.0,4.0,2.0,,2.0,1,1,0,1,1,1,no
+91400303,800000.0,800000.0,Professional advertiser,penthouse ,mentidero - teatro falla - alameda,unknown,,280.0,6.0,4.0,,3.0,1,1,1,1,1,1,no
+91339247,310000.0,310000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,126.0,4.0,2.0,,2.0,1,0,0,1,0,0,no
+91171468,600000.0,600000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,222.0,6.0,3.0,,2.0,1,1,0,1,0,1,no
+90297494,760000.0,760000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,250.0,3.0,2.0,,1.0,0,1,0,1,1,1,individual
+84544887,610000.0,610000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,340.0,9.0,2.0,1856.0,2.0,0,1,0,1,0,1,no
+96457913,250000.0,250000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,96.0,3.0,1.0,1976.0,1.0,1,0,0,0,1,0,no
+96457730,399000.0,399000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,143.0,4.0,2.0,1888.0,2.0,0,1,0,0,0,1,no
+96383950,230000.0,230000.0,Professional advertiser,flat / apartment ,playa stª mª del mar,virgen del perpetuo socorro,,100.0,3.0,2.0,,4.0,1,0,0,0,0,1,no
+95560469,243000.0,243000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,calle cristobal colon,,70.0,2.0,1.0,2020.0,0.0,1,0,1,1,1,1,central
+95355256,130000.0,130000.0,Professional advertiser,flat / apartment ,la caleta - la vina,sagasta,,65.0,2.0,1.0,,0.0,0,0,0,1,0,0,no
+94894087,195000.0,195000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,calle bendicion de dios,,95.0,3.0,1.0,,2.0,0,0,1,1,0,1,no
+94510659,135000.0,135000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,avenida del peru,,63.0,2.0,1.0,,1.0,1,0,0,0,1,0,no
+94058310,165000.0,165000.0,Professional advertiser,flat / apartment ,la caleta - la vina,venezuela,,98.0,3.0,1.0,,3.0,0,0,0,0,0,1,no
+91215153,240000.0,240000.0,Professional advertiser,duplex ,cortadura - zona franca,zarza,,150.0,4.0,2.0,,0.0,0,0,1,1,1,1,no
+91091671,190000.0,190000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,calle plocia,,105.0,3.0,1.0,,2.0,0,1,0,0,0,1,no
+96869254,680000.0,680000.0,Private owner,flat / apartment ,playa victoria,avenida andalucia,84.0,247.0,7.0,2.0,,3.0,1,0,1,0,1,1,no
+96658994,160000.0,160000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,60.0,2.0,1.0,1954.0,3.0,0,1,1,0,0,0,no
+96530491,420000.0,480000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,145.0,3.0,2.0,1960.0,1.0,1,0,0,1,1,1,no
+95314328,325000.0,325000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle sagasta,,130.0,4.0,1.0,,2.0,0,1,1,0,0,0,no
+94980578,105000.0,120000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,55.0,2.0,1.0,1888.0,1.0,0,1,1,0,0,1,no
+94905996,198000.0,198000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,74.0,2.0,1.0,,1.0,0,0,0,0,0,0,no
+89030717,189000.0,198000.0,,flat / apartment ,centro historico - plaza espana,calle santiago,5.0,95.0,2.0,1.0,,3.0,0,1,0,1,0,1,individual
+96228270,180000.0,180000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,67.0,3.0,1.0,,4.0,1,0,0,0,0,1,no
+96082220,195000.0,195000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,60.0,1.0,1.0,,0.0,1,0,0,1,0,1,no
+95060659,330000.0,330000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,159.0,7.0,3.0,1968.0,1.0,1,1,0,0,1,1,no
+94427025,120000.0,120000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,43.0,1.0,1.0,2005.0,0.0,0,0,0,0,0,1,no
+94056368,235000.0,235000.0,Professional advertiser,flat / apartment ,zona bahia blanca,unknown,,73.0,3.0,1.0,,3.0,1,0,1,1,1,1,no
+92710931,165000.0,165000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,78.0,3.0,1.0,1996.0,1.0,0,0,0,0,0,0,no
+92366489,720000.0,720000.0,Professional advertiser,flat / apartment ,playa stª mª del mar,unknown,,178.0,3.0,2.0,1961.0,2.0,1,0,0,0,0,0,individual
+96792012,119000.0,119000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,57.0,2.0,1.0,,2.0,0,0,0,1,1,1,no
+96785915,142000.0,142000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,53.0,1.0,1.0,,0.0,1,0,0,1,0,1,no
+96605535,236000.0,236000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,106.0,3.0,2.0,,1.0,0,0,0,0,0,1,no
+96544687,259000.0,259000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,103.0,3.0,2.0,,1.0,1,0,1,0,1,1,individual
+96467873,480000.0,480000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,145.0,3.0,2.0,,1.0,1,0,0,0,1,1,no
+96224456,359000.0,400000.0,Private owner,flat / apartment ,playa stª mª del mar,avenida fernandez ladreda,9.0,110.0,4.0,2.0,,6.0,1,0,1,1,0,1,individual
+96055197,240000.0,240000.0,Private owner,flat / apartment ,zona san jose - varela,calle santa maria de la cabeza,11.0,85.0,3.0,2.0,,0.0,1,0,0,1,0,1,no
+95898860,123000.0,123000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,60.0,2.0,1.0,,2.0,0,1,1,0,0,1,no
+95857120,165000.0,165000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,89.0,3.0,1.0,,7.0,1,0,1,0,1,1,no
+95842381,160000.0,160000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,42.0,1.0,1.0,,1.0,1,0,0,0,0,0,no
+95815453,223000.0,223000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,104.0,3.0,2.0,,3.0,0,1,1,1,0,1,no
+95635192,148000.0,148000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,95.0,1.0,1.0,,2.0,0,0,0,0,0,0,no
+95611090,190000.0,235000.0,Private owner,flat / apartment ,zona san jose - varela,calle antonio machado,5.0,72.0,2.0,1.0,,1.0,0,1,0,1,0,1,no
+95569022,160000.0,160000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,47.0,1.0,1.0,2010.0,0.0,1,0,0,1,0,0,no
+95390055,240000.0,240000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,95.0,3.0,1.0,1975.0,3.0,1,0,0,1,0,0,no
+95238032,310000.0,310000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,92.0,1.0,2.0,1888.0,0.0,0,0,0,0,1,0,no
+95121624,260000.0,260000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,127.0,4.0,2.0,1968.0,3.0,1,0,0,0,0,1,no
+94959350,128000.0,128000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,50.0,1.0,1.0,2012.0,2.0,0,1,0,1,0,1,no
+91810160,138000.0,138000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,78.0,3.0,1.0,,3.0,1,0,0,0,0,1,no
+94825972,129000.0,129000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,55.0,1.0,1.0,,2.0,0,0,0,0,0,0,no
+94470386,180000.0,180000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,80.0,3.0,2.0,,1.0,0,0,0,1,0,0,no
+94438349,330000.0,330000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,180.0,7.0,3.0,,1.0,1,0,0,0,1,1,no
+94354915,123000.0,123000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,60.0,2.0,1.0,,2.0,0,0,1,0,0,1,no
+94150711,125000.0,140000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,plaza virgen de loreto,1.0,68.0,3.0,1.0,,0.0,1,0,0,0,0,1,no
+92148007,2500000.0,2500000.0,Professional advertiser, estate ,centro historico - plaza espana,unknown,,2200.0,47.0,47.0,,,0,1,0,0,1,0,no
+93649049,380000.0,380000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,112.0,3.0,2.0,2003.0,3.0,1,1,1,0,0,1,central
+93135749,200000.0,206000.0,Professional advertiser,penthouse ,la paz - segunda aguada - loreto,calle carraca,9.0,62.0,2.0,1.0,,4.0,1,0,1,1,1,1,no
+91895409,186000.0,186000.0,Professional advertiser,penthouse ,mentidero - teatro falla - alameda,unknown,,52.0,1.0,1.0,,3.0,0,0,0,0,1,0,no
+37775321,220000.0,220000.0,Private owner,flat / apartment ,zona san jose - varela,calle brunete,8.0,93.0,3.0,1.0,,1.0,1,0,0,1,1,1,no
+96871923,155000.0,155000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,69.0,2.0,2.0,1960.0,,0,0,0,1,0,1,no
+96846400,179000.0,179000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,80.0,2.0,1.0,1888.0,2.0,0,1,0,0,0,1,no
+96844964,215000.0,215000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,77.0,2.0,1.0,2008.0,1.0,1,1,1,1,0,1,central
+96819198,138000.0,138000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,60.0,1.0,1.0,2010.0,0.0,1,0,0,1,0,0,no
+96804319,99900.0,99900.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,45.0,2.0,1.0,,2.0,0,1,0,1,0,1,no
+96759399,112000.0,112000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,64.0,2.0,1.0,1964.0,0.0,0,0,1,1,0,1,no
+96738876,138000.0,138000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,70.0,3.0,1.0,1969.0,3.0,1,0,0,0,0,1,no
+96792112,180000.0,180000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,73.0,2.0,1.0,1994.0,0.0,0,0,1,0,0,0,no
+96783713,158000.0,158000.0,Professional advertiser,flat / apartment ,zona laguna,unknown,,66.0,3.0,1.0,,3.0,0,0,0,0,0,1,no
+96772159,420000.0,420000.0,Professional advertiser,flat / apartment ,playa victoria,avenida ana de viya,,145.0,3.0,2.0,1960.0,1.0,1,0,0,1,1,1,no
+84471250,190000.0,190000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,112.0,4.0,1.0,1942.0,3.0,0,1,0,0,0,1,no
+96714027,470000.0,470000.0,Private owner,flat / apartment ,zona bahia blanca,calle santa cruz de tenerife,8.0,180.0,4.0,2.0,,4.0,1,0,0,1,1,1,no
+96714469,185000.0,185000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,85.0,3.0,1.0,,1.0,0,1,0,0,0,1,no
+88712665,415000.0,415000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,144.0,3.0,2.0,2000.0,2.0,1,0,1,1,1,1,no
+96661717,165000.0,165000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,85.0,3.0,1.0,1973.0,7.0,1,0,0,0,1,1,no
+96652837,330000.0,330000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,160.0,7.0,3.0,1968.0,1.0,1,0,0,1,1,1,no
+96618454,160000.0,160000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,42.0,1.0,1.0,,0.0,1,0,0,1,1,0,no
+96613039,205000.0,205000.0,Professional advertiser,flat / apartment ,zona bahia blanca,unknown,,130.0,2.0,2.0,,0.0,0,0,0,0,0,1,no
+96612994,165000.0,165000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,85.0,3.0,1.0,1973.0,7.0,1,0,0,0,1,1,no
+96613005,149900.0,149900.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,75.0,2.0,1.0,,1.0,1,0,0,1,0,0,no
+96612953,110000.0,110000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,55.0,2.0,1.0,,0.0,0,0,0,0,0,1,no
+96612938,225000.0,225000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,80.0,3.0,1.0,,3.0,1,0,0,0,1,1,no
+96612935,170000.0,170000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,79.0,3.0,1.0,,2.0,0,1,0,0,1,1,no
+96612918,136800.0,136800.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,58.0,1.0,1.0,,0.0,1,0,0,0,1,0,no
+96527985,150000.0,150000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,63.0,3.0,1.0,1972.0,0.0,1,0,0,0,0,1,no
+96570485,142000.0,142000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,53.0,1.0,1.0,2006.0,2.0,1,0,0,1,0,0,no
+96533695,260000.0,280000.0,Professional advertiser,penthouse ,centro historico - plaza espana,unknown,,57.0,2.0,1.0,,,0,1,0,0,1,1,no
+95671990,715000.0,715000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,145.0,3.0,3.0,,5.0,1,0,1,1,1,1,no
+95357052,330000.0,330000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,155.0,6.0,2.0,,1.0,1,0,0,1,1,1,no
+95298360,700000.0,700000.0,Professional advertiser,flat / apartment ,cortadura - zona franca,unknown,,169.0,5.0,3.0,,7.0,1,0,1,1,1,1,no
+93350568,385000.0,385000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,120.0,3.0,2.0,,1.0,1,0,1,1,1,1,no
+94046445,740000.0,740000.0,Professional advertiser,flat / apartment ,zona bahia blanca,unknown,,250.0,6.0,3.0,,11.0,1,0,0,1,1,1,no
+95877317,365000.0,365000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,calle enrique de las marinas,,97.0,3.0,2.0,,,1,1,0,0,0,0,no
+95143533,385000.0,385000.0,Professional advertiser,flat / apartment ,playa victoria,calle antonio accame,,135.0,3.0,2.0,1977.0,1.0,1,1,1,1,1,1,no
+96005420,245000.0,245000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,100.0,3.0,2.0,1971.0,2.0,1,0,0,1,0,1,no
+93842066,330000.0,330000.0,Professional advertiser,flat / apartment ,cortadura - zona franca,unknown,,65.0,2.0,1.0,1995.0,4.0,1,0,1,0,0,0,no
+39500067,185000.0,185000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,80.0,3.0,1.0,1900.0,1.0,0,0,0,0,0,0,no
+34755427,170000.0,170000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,calle carlos haya,17.0,58.0,3.0,1.0,,0.0,1,0,0,1,0,1,no
+96295181,110000.0,110000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,45.0,3.0,1.0,,2.0,0,0,0,0,0,1,no
+96178024,285000.0,285000.0,Private owner,flat / apartment ,playa victoria,calle general munoz arenillas,4.0,79.0,2.0,1.0,,5.0,1,0,0,1,1,1,no
+95566032,259000.0,259000.0,Private owner,flat / apartment ,mentidero - teatro falla - alameda,plaza viudas,30.0,103.0,3.0,2.0,,1.0,1,0,1,1,1,1,individual
+95506083,190000.0,190000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,60.0,1.0,1.0,1983.0,6.0,1,0,0,1,0,0,no
+95427447,180000.0,180000.0,Private owner,flat / apartment ,la caleta - la vina,calle doctor maranon,1.0,81.0,3.0,1.0,,3.0,0,0,0,0,0,1,no
+95301142,168000.0,168000.0,Private owner,flat / apartment ,mentidero - teatro falla - alameda,calle virgili,7.0,75.0,3.0,1.0,,1.0,0,0,0,1,0,1,no
+95225539,179000.0,179000.0,Private owner,studio flat ,la paz - segunda aguada - loreto,calle veracruz,1.0,52.0,0.0,1.0,,0.0,1,0,0,1,0,1,no
+95065590,200000.0,200000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,90.0,3.0,2.0,2001.0,1.0,0,1,0,1,0,1,no
+94724528,360000.0,360000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,avenida segunda aguada,11.0,125.0,4.0,2.0,,1.0,1,0,1,0,0,0,no
+94373527,430000.0,430000.0,Private owner,flat / apartment ,cortadura - zona franca,paseo maritimo,28.0,86.0,2.0,2.0,1987.0,11.0,1,0,0,1,0,1,no
+94036751,230000.0,230000.0,Private owner,flat / apartment ,zona bahia blanca,calle tolosa latour,19.0,90.0,3.0,1.0,,3.0,1,0,1,0,0,1,no
+93737477,330000.0,330000.0,Private owner,flat / apartment ,mentidero - teatro falla - alameda,calle manuel rances,25.0,200.0,8.0,3.0,,1.0,0,0,0,0,0,1,no
+93643395,495000.0,495000.0,Private owner, semi-detached house ,mentidero - teatro falla - alameda,plaza mentidero,1.0,400.0,10.0,5.0,,,0,1,1,1,1,0,no
+92895690,173500.0,173500.0,Private owner,flat / apartment ,zona san jose - varela,calle francisco garcia de sola,25.0,70.0,3.0,1.0,,2.0,0,1,0,0,1,1,no
+91000480,138000.0,138000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,75.0,3.0,1.0,1970.0,3.0,1,0,0,1,0,1,no
+86894880,195000.0,195000.0,Private owner,penthouse ,mentidero - teatro falla - alameda,calle navas,8.0,62.0,2.0,1.0,,3.0,0,0,1,0,1,1,individual
+33006471,350000.0,350000.0,Private owner,flat / apartment ,centro historico - plaza espana,calle columela,33.0,160.0,5.0,1.0,,3.0,0,1,0,1,1,1,no
+1764716,500000.0,500000.0,Private owner,flat / apartment ,playa victoria,paseo maritimo,2.0,136.0,3.0,2.0,,10.0,1,0,0,1,1,1,individual
+88959959,99900.0,99900.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,59.0,3.0,1.0,1957.0,3.0,0,0,0,0,0,1,no
+96843495,117000.0,117000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,calle real,,50.0,1.0,1.0,2008.0,1.0,1,0,0,1,0,1,no
+96533655,400000.0,400000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,72.0,2.0,1.0,,9.0,1,1,0,0,1,1,no
+96710768,330000.0,330000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,155.0,7.0,3.0,,1.0,1,1,0,0,1,1,no
+96690410,160000.0,160000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,65.0,2.0,1.0,,3.0,0,0,1,0,0,1,no
+96651695,180000.0,180000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,67.0,3.0,1.0,,4.0,1,0,0,0,0,1,no
+96612941,200000.0,200000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,108.0,4.0,1.0,,0.0,0,0,0,0,0,1,no
+94789136,237000.0,237000.0,Professional advertiser,flat / apartment ,zona bahia blanca,unknown,,90.0,3.0,1.0,,3.0,1,0,1,0,0,1,no
+93191382,140000.0,140000.0,Private owner,flat / apartment ,la caleta - la vina,calle cruz,9.0,80.0,3.0,0.0,,0.0,0,0,0,0,0,1,no
+90808230,175000.0,175000.0,Private owner,flat / apartment ,la caleta - la vina,calle cruz,22.0,90.0,4.0,2.0,,1.0,0,1,0,1,0,1,no
+96879163,223000.0,223000.0,Professional advertiser,duplex ,playa stª mª del mar,unknown,,79.0,2.0,1.0,,0.0,1,0,1,0,0,1,individual
+96879141,109000.0,109000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,64.0,2.0,1.0,,0.0,0,0,1,1,0,1,no
+96777669,430000.0,430000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,209.0,3.0,2.0,,1.0,0,1,0,0,0,0,no
+96774112,470000.0,470000.0,Professional advertiser,flat / apartment ,zona bahia blanca,unknown,,167.0,4.0,2.0,,4.0,1,0,0,1,1,1,no
+96742999,110000.0,110000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,48.0,1.0,1.0,1994.0,1.0,0,0,0,1,0,0,no
+96733902,105000.0,105000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,55.0,2.0,1.0,,1.0,0,1,0,0,0,1,no
+96731036,112000.0,112000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,70.0,2.0,1.0,,0.0,0,0,0,1,0,0,no
+96704657,330000.0,330000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,160.0,5.0,3.0,,1.0,1,0,0,1,1,1,no
+96651701,160000.0,160000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,70.0,2.0,1.0,,3.0,0,0,1,0,0,1,no
+96693805,170000.0,170000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,95.0,2.0,1.0,,1.0,0,0,0,0,0,0,no
+96693196,210000.0,210000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,85.0,2.0,1.0,,1.0,0,0,0,0,0,1,no
+96294285,220000.0,220000.0,Professional advertiser,duplex ,playa victoria,unknown,,81.0,2.0,1.0,,0.0,1,0,0,1,0,1,no
+95941252,270000.0,270000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,110.0,4.0,1.0,,1.0,0,0,0,0,0,0,no
+95139542,225000.0,225000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,80.0,3.0,1.0,,3.0,1,1,0,1,0,1,no
+95669839,400000.0,400000.0,Professional advertiser,penthouse ,la caleta - la vina,obispo urquinaona nn,,155.0,2.0,2.0,2021.0,4.0,1,0,1,0,1,1,individual
+93844307,200000.0,200000.0,Professional advertiser,penthouse ,mentidero - teatro falla - alameda,plaza de espana,8.0,53.0,1.0,1.0,1888.0,4.0,0,0,0,1,1,1,no
+93668570,550000.0,550000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,270.0,7.0,6.0,,2.0,0,1,1,1,0,1,individual
+96781988,180000.0,180000.0,Professional advertiser,flat / apartment ,zona laguna,velazquez,,75.0,3.0,1.0,,1.0,1,0,0,1,1,1,no
+96754778,350000.0,350000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,213.0,4.0,3.0,,2.0,0,1,0,0,0,1,no
+96713943,200000.0,200000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,ustariz,,75.0,2.0,1.0,,,1,0,0,1,0,1,no
+96649490,210000.0,210000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,97.0,2.0,1.0,1970.0,0.0,0,0,1,1,0,0,no
+96514528,245000.0,245000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,90.0,3.0,2.0,1971.0,2.0,1,0,0,1,0,1,no
+96537842,240000.0,240000.0,Professional advertiser,flat / apartment ,zona laguna,calle goya,,80.0,3.0,1.0,,1.0,1,0,0,0,1,1,no
+96525588,134000.0,134000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,barbate,5.0,67.0,3.0,1.0,,3.0,1,0,0,1,0,1,no
+96506039,250000.0,250000.0,Private owner,flat / apartment ,la caleta - la vina,calle doctores melendez,20.0,100.0,3.0,1.0,1981.0,,0,0,1,0,0,1,no
+96468555,225000.0,225000.0,Private owner,flat / apartment ,mentidero - teatro falla - alameda,benjumeda,30.0,99.0,3.0,1.0,,0.0,1,0,1,1,0,1,no
+96080043,185000.0,185000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,86.0,2.0,1.0,1888.0,2.0,0,0,0,0,0,0,no
+96443575,185000.0,185000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,85.0,3.0,1.0,1995.0,1.0,0,1,0,0,0,1,no
+96389003,165000.0,165000.0,Professional advertiser,penthouse ,ayuntamiento - catedral,unknown,,78.0,2.0,1.0,,3.0,0,0,1,0,1,1,no
+96301547,180000.0,180000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,65.0,3.0,1.0,1968.0,4.0,1,0,0,0,0,1,no
+96277812,200000.0,200000.0,Professional advertiser,penthouse ,mentidero - teatro falla - alameda,unknown,,71.0,2.0,1.0,2004.0,3.0,1,0,1,1,1,0,no
+96228494,380000.0,380000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,112.0,4.0,2.0,2017.0,4.0,0,0,0,0,0,0,no
+96200385,126000.0,126000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,66.0,3.0,1.0,1969.0,1.0,1,0,1,1,0,1,no
+96200103,125000.0,125000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,67.0,3.0,1.0,,0.0,1,0,0,0,0,1,no
+95699394,259000.0,259000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,103.0,3.0,2.0,1961.0,1.0,1,0,1,1,1,1,no
+96027949,245000.0,245000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,87.0,3.0,1.0,,2.0,1,0,0,1,0,1,no
+95664800,81000.0,81000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,40.0,2.0,1.0,1995.0,0.0,0,0,0,0,0,0,no
+95854039,235000.0,235000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,118.0,3.0,2.0,1995.0,1.0,0,1,0,0,0,1,no
+90634997,240000.0,240000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,calle fermin salvochea,,114.0,3.0,1.0,,1.0,0,0,0,0,0,0,no
+95810081,125000.0,125000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,62.0,2.0,1.0,1997.0,1.0,0,0,0,0,0,0,no
+93454435,196800.0,196800.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,115.0,3.0,1.0,1958.0,0.0,0,1,0,1,0,1,no
+95744783,700000.0,700000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,155.0,5.0,3.0,1981.0,7.0,1,0,0,0,1,0,no
+95492904,320000.0,320000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,140.0,3.0,2.0,1981.0,3.0,1,0,1,1,1,1,no
+95661924,160000.0,160000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,75.0,3.0,1.0,,3.0,0,1,0,0,0,1,no
+95615198,235000.0,235000.0,,flat / apartment ,zona laguna,calle goya,13.0,93.0,3.0,1.0,1975.0,1.0,1,0,0,1,0,1,no
+94341891,223000.0,223000.0,Professional advertiser,duplex ,playa stª mª del mar,unknown,,60.0,2.0,1.0,1978.0,0.0,0,0,1,0,0,1,individual
+95580469,168000.0,168000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,100.0,3.0,1.0,,1.0,0,1,0,0,0,1,no
+95510816,196000.0,196000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,117.0,4.0,1.0,1954.0,0.0,0,0,0,0,0,1,no
+95456781,210000.0,210000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,81.0,2.0,1.0,2008.0,2.0,1,1,0,1,0,1,no
+95317572,240000.0,240000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,95.0,3.0,1.0,1975.0,3.0,1,0,1,1,0,0,no
+95049325,226600.0,226600.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,88.0,3.0,2.0,1888.0,0.0,0,0,1,1,0,1,no
+95102052,149000.0,149000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,65.0,2.0,1.0,,0.0,0,0,0,0,0,1,no
+95051013,138000.0,138000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,75.0,3.0,1.0,,3.0,1,0,0,0,0,1,no
+94966032,170000.0,170000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,102.0,2.0,2.0,,0.0,1,0,0,1,0,0,no
+82755169,350000.0,350000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,110.0,3.0,1.0,,,0,0,0,0,1,0,no
+94744160,260000.0,260000.0,Professional advertiser,flat / apartment ,zona san jose - varela,calle garcia carrera,,127.0,4.0,2.0,1968.0,,1,0,0,0,0,0,individual
+94640099,180000.0,180000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle san jose,,117.0,4.0,2.0,1995.0,2.0,0,1,0,1,0,1,no
+94611700,235000.0,250000.0,Professional advertiser,flat / apartment ,zona bahia blanca,unknown,,90.0,3.0,1.0,,3.0,1,0,1,0,0,1,no
+94619504,512000.0,512000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,164.0,4.0,2.0,1990.0,2.0,1,1,0,1,0,1,no
+94443663,123000.0,123000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,57.0,1.0,1.0,2007.0,0.0,0,0,0,0,0,1,no
+94386694,330000.0,330000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,156.0,7.0,3.0,1968.0,1.0,1,1,0,1,1,1,no
+88673185,330000.0,330000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,169.0,7.0,3.0,1968.0,1.0,1,0,0,1,1,1,no
+94161957,230000.0,230000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,86.0,3.0,1.0,1969.0,3.0,1,0,0,1,0,1,no
+93757203,200000.0,200000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,200.0,7.0,2.0,1983.0,0.0,0,0,1,0,0,1,no
+40043701,720000.0,720000.0,Professional advertiser,flat / apartment ,playa stª mª del mar,unknown,,170.0,3.0,2.0,1961.0,2.0,1,0,0,1,1,1,no
+92928805,340000.0,340000.0,Professional advertiser,flat / apartment ,playa stª mª del mar,calle santa cruz de tenerife,,112.0,2.0,2.0,,1.0,0,0,0,0,1,0,no
+93044352,280000.0,280000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,calle cristobal colon,,85.0,3.0,2.0,,2.0,0,1,1,0,0,0,no
+91230718,400000.0,400000.0,Private owner,penthouse ,centro historico - plaza espana,calle cobos,19.0,125.0,3.0,1.0,,3.0,0,1,1,1,1,1,no
+90924926,173000.0,173000.0,Private owner,flat / apartment ,la caleta - la vina,calle vidal,6.0,91.0,3.0,1.0,,1.0,0,1,1,1,0,1,no
+90543112,320000.0,320000.0,Private owner,flat / apartment ,la caleta - la vina,calle garaicoechea,2.0,180.0,5.0,3.0,2020.0,0.0,0,0,0,0,1,1,no
+90220875,139000.0,139000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,50.0,1.0,1.0,1958.0,4.0,0,0,0,0,1,1,no
+87392155,530000.0,530000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,280.0,5.0,3.0,1995.0,2.0,0,1,0,0,0,1,no
+82574523,240000.0,240000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,101.0,2.0,1.0,2000.0,1.0,1,1,0,0,0,1,no
+39355991,140000.0,140000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,59.0,2.0,1.0,2002.0,1.0,0,0,0,0,1,1,no
+37310235,180000.0,180000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,calle novena,,80.0,3.0,1.0,,2.0,0,0,0,0,0,0,no
+28748704,610000.0,610000.0,Private owner,flat / apartment ,centro historico - plaza espana,callejon tinte,1.0,320.0,7.0,3.0,,2.0,0,1,0,0,1,1,no
+96753024,381000.0,381000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,92.0,3.0,2.0,,1.0,1,0,0,0,0,1,no
+96550882,330000.0,330000.0,Private owner,flat / apartment ,playa stª mª del mar,calle granja san ildefonso,6.0,97.0,3.0,2.0,,2.0,1,0,1,1,0,1,no
+96312737,180000.0,180000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,75.0,3.0,1.0,,3.0,1,0,0,0,0,1,no
+95992553,126000.0,129900.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,calle catarroja,,66.0,2.0,1.0,,0.0,0,0,0,0,0,1,no
+90251531,299000.0,299000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,avenida de huelva,6.0,140.0,3.0,2.0,2018.0,1.0,1,0,1,0,0,1,individual
+96415461,240000.0,240000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,94.0,3.0,1.0,1962.0,1.0,1,1,0,0,1,1,no
+96403787,240000.0,240000.0,Professional advertiser,flat / apartment ,cortadura - zona franca,unknown,,100.0,3.0,2.0,1975.0,2.0,1,0,0,1,1,1,no
+96618412,169900.0,169900.0,Professional advertiser,penthouse ,centro historico - plaza espana,unknown,,75.0,1.0,1.0,1995.0,4.0,0,0,1,1,1,1,no
+96533654,142000.0,142000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,50.0,1.0,1.0,,2.0,1,1,0,1,1,1,no
+96088045,195000.0,195000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,90.0,3.0,1.0,,2.0,0,1,0,0,0,0,no
+96468926,108500.0,108500.0,Professional advertiser,penthouse ,la caleta - la vina,unknown,,40.0,1.0,1.0,,3.0,0,0,1,0,1,0,individual
+96468933,245000.0,245000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,100.0,3.0,2.0,,2.0,1,0,0,1,0,0,no
+88367778,210000.0,210000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,127.0,5.0,1.0,,,0,0,0,0,0,0,no
+96467506,285000.0,285000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,130.0,4.0,2.0,,2.0,0,1,1,0,0,0,individual
+96415456,250000.0,250000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,215.0,4.0,2.0,1996.0,,1,0,0,0,0,1,no
+96316743,180000.0,180000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,75.0,3.0,1.0,,4.0,0,0,0,0,0,0,no
+96251978,104000.0,104000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,31.0,1.0,1.0,,3.0,0,0,0,0,1,1,no
+96088074,280000.0,280000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,103.0,3.0,2.0,,1.0,1,0,1,1,1,0,individual
+95948683,189000.0,189000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,77.0,3.0,1.0,1975.0,6.0,1,0,0,1,0,1,no
+95773504,350000.0,350000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,182.0,4.0,3.0,,2.0,0,1,0,0,0,1,no
+95507610,200000.0,200000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,102.0,4.0,1.0,1960.0,0.0,0,0,0,1,0,1,no
+95598537,109000.0,109000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,64.0,2.0,1.0,1964.0,0.0,0,0,0,0,0,1,no
+95589382,74000.0,74000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle barquillas de lope,,43.0,1.0,1.0,,0.0,0,0,0,0,0,1,no
+94993059,136000.0,136000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,70.0,3.0,1.0,,3.0,1,0,0,0,0,0,no
+94848623,159000.0,159000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,85.0,3.0,1.0,,7.0,1,0,0,0,0,0,no
+93084934,138000.0,138000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,60.0,1.0,1.0,1888.0,0.0,1,0,0,1,0,0,individual
+93401118,230000.0,230000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,86.0,3.0,1.0,1969.0,3.0,1,0,0,1,0,1,no
+90238613,220000.0,220000.0,Private owner,flat / apartment ,zona laguna,calle santa teresa se jesus,1.0,75.0,3.0,2.0,,2.0,0,1,1,0,0,1,no
+89247565,350000.0,350000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,paseo principe de asturias,14.0,120.0,3.0,2.0,,4.0,1,0,1,1,0,1,no
+96836061,105000.0,105000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle libertad,,60.0,1.0,1.0,,1.0,0,0,0,1,0,0,no
+96817039,157500.0,157500.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,loreto,,70.0,2.0,1.0,1975.0,8.0,1,0,0,0,1,1,no
+96739863,220000.0,220000.0,Professional advertiser,flat / apartment ,zona laguna,calle murillo,,63.0,2.0,1.0,1986.0,0.0,0,0,0,0,0,1,no
+96703200,97000.0,97000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,calle grazalema,,66.0,2.0,1.0,1956.0,1.0,0,1,0,0,0,1,no
+96703187,218500.0,218500.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,avenida de la sanidad publica,,98.0,3.0,1.0,1973.0,5.0,1,0,0,0,0,1,no
+96538752,259000.0,259000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,103.0,3.0,2.0,,1.0,1,0,1,1,1,0,individual
+96534626,310000.0,310000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,141.0,3.0,1.0,,3.0,1,0,0,1,0,1,no
+96529932,89900.0,89900.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,38.0,1.0,1.0,,0.0,0,0,0,0,0,1,no
+96167836,130000.0,130000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,70.0,3.0,1.0,,0.0,1,0,0,0,0,1,no
+96342755,175000.0,175000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,60.0,3.0,1.0,,0.0,1,0,0,0,0,1,no
+96375631,150000.0,150000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,65.0,3.0,1.0,1969.0,3.0,1,0,0,1,0,1,no
+96259125,130000.0,130000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,57.0,2.0,1.0,,,0,0,1,1,0,1,no
+96225810,700000.0,700000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,155.0,5.0,3.0,1981.0,7.0,1,0,0,1,0,1,individual
+96236767,259000.0,259000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,102.0,3.0,2.0,1961.0,1.0,1,0,1,1,1,0,individual
+89672811,82200.0,82200.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,calle compania,,58.0,2.0,1.0,1995.0,,0,0,0,0,0,0,individual
+96036135,185000.0,185000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,97.0,3.0,1.0,,5.0,1,0,0,0,0,1,no
+95739085,180000.0,180000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,90.0,3.0,1.0,1981.0,1.0,0,1,0,1,0,1,no
+95753984,82000.0,82000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,50.0,2.0,1.0,,0.0,0,0,0,0,0,0,no
+95710035,150000.0,150000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,75.0,2.0,1.0,,1.0,1,1,1,1,0,1,no
+95691607,200000.0,200000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,108.0,4.0,1.0,,0.0,0,0,0,1,0,1,no
+95664041,175000.0,175000.0,Professional advertiser,flat / apartment ,playa stª mª del mar,unknown,,50.0,1.0,1.0,,4.0,1,0,0,0,0,1,no
+95550324,178500.0,178500.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,90.0,3.0,1.0,,1.0,0,0,0,1,1,1,no
+95547215,220000.0,220000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,93.0,3.0,1.0,1975.0,1.0,1,0,0,1,1,1,individual
+95214299,230000.0,230000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,95.0,3.0,2.0,,4.0,1,0,0,0,0,1,no
+94611787,225000.0,225000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,78.0,3.0,1.0,,1.0,1,0,0,1,0,1,no
+94458264,228000.0,228000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,89.0,3.0,1.0,1975.0,1.0,1,0,0,0,0,0,no
+94176436,120000.0,120000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,50.0,2.0,1.0,1995.0,2.0,0,0,0,0,0,1,no
+93627480,132829.0,132829.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,calle navas,,65.0,1.0,1.0,,,0,0,0,0,0,0,individual
+90025820,277000.0,277000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,calle san pedro,,143.0,3.0,2.0,,,1,0,0,0,0,0,no
+91339223,162000.0,162000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,85.0,3.0,1.0,,3.0,0,1,1,1,0,1,no
+92908391,310000.0,310000.0,Professional advertiser,flat / apartment ,cortadura - zona franca,unknown,,95.0,3.0,2.0,,1.0,1,0,0,1,1,1,no
+91901635,250000.0,250000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,95.0,3.0,1.0,1971.0,3.0,1,1,0,0,1,1,no
+91339277,250000.0,250000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,156.0,4.0,3.0,,2.0,0,1,0,1,0,1,no
+91339279,220000.0,220000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,101.0,3.0,2.0,,,1,0,0,1,0,1,no
+90607916,115500.0,115500.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle maria arteaga,,65.0,1.0,2.0,1888.0,,0,0,0,0,0,0,individual
+89785726,150000.0,150000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,70.0,1.0,1.0,,1.0,0,1,0,1,0,1,no
+87681863,125000.0,125000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,50.0,1.0,1.0,1995.0,0.0,0,0,0,0,0,0,no
+96528298,150000.0,150000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,canovas del castillo,,98.0,3.0,1.0,1850.0,2.0,0,0,0,0,0,0,no
+96481624,450000.0,450000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,calle jose del toro,,150.0,3.0,2.0,,2.0,1,0,1,1,1,1,no
+96457918,150000.0,150000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,75.0,3.0,2.0,1969.0,1.0,0,0,0,0,0,1,no
+95509910,460000.0,460000.0,Professional advertiser, detached house ,la caleta - la vina,calle virgen de la palma,9.0,460.0,8.0,8.0,,,0,0,0,0,0,0,no
+95051663,340000.0,340000.0,Professional advertiser,flat / apartment ,playa stª mª del mar,calle santa cruz de tenerife,,150.0,2.0,2.0,,2.0,1,1,0,0,1,1,individual
+94605794,260000.0,260000.0,Professional advertiser,flat / apartment ,zona san jose - varela,calle garcia carrera,,126.0,4.0,2.0,1968.0,3.0,1,0,0,0,0,0,no
+93866629,105000.0,105000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,virgili,,50.0,1.0,1.0,,0.0,0,0,0,0,0,0,no
+93648983,119000.0,119000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle garaicoechea,,80.0,3.0,1.0,,2.0,0,0,0,0,0,1,no
+91474572,370000.0,370000.0,Professional advertiser,flat / apartment ,zona laguna,estadio,,75.0,3.0,2.0,1959.0,3.0,1,0,1,0,1,1,no
+96288862,180000.0,200000.0,Private owner,flat / apartment ,la caleta - la vina,calle paraguay,5.0,115.0,4.0,1.0,,3.0,0,1,1,1,0,1,no
+95601254,95000.0,95000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,44.0,2.0,1.0,,2.0,0,1,0,0,0,1,no
+88209058,360000.0,360000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,124.0,2.0,2.0,1900.0,2.0,0,1,0,1,0,1,individual
+88209080,365000.0,365000.0,Professional advertiser,flat / apartment ,zona laguna,unknown,,165.0,4.0,2.0,1990.0,1.0,1,0,0,1,1,1,no
+96743057,185000.0,185000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,110.0,4.0,1.0,,3.0,0,0,0,0,1,1,no
+96652338,249000.0,249000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,137.0,5.0,1.0,1963.0,4.0,0,0,0,1,0,1,no
+96652324,243000.0,243000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,92.0,3.0,1.0,,3.0,1,0,0,0,1,1,no
+96652325,467000.0,467000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,169.0,5.0,3.0,1968.0,4.0,1,0,1,0,1,0,no
+96548133,110000.0,110000.0,Professional advertiser,duplex ,mentidero - teatro falla - alameda,calle cervantes,,52.0,1.0,1.0,,0.0,0,0,1,1,0,1,individual
+94446186,170000.0,170000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,83.0,3.0,1.0,,1.0,1,0,0,0,0,1,no
+96786060,110000.0,110000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,enrique calvo,,70.0,2.0,1.0,,0.0,0,0,0,0,0,1,no
+96457792,330000.0,330000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,140.0,7.0,3.0,1888.0,1.0,1,0,0,0,1,0,no
+96457746,113000.0,113000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,45.0,2.0,1.0,1980.0,2.0,0,0,0,0,0,0,no
+96457774,230000.0,230000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,66.0,1.0,1.0,2007.0,2.0,1,0,0,0,0,1,central
+96457781,225000.0,225000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,80.0,3.0,1.0,1888.0,3.0,1,0,0,0,0,0,no
+95425171,286000.0,286000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,110.0,4.0,1.0,,12.0,1,0,0,0,0,1,no
+95810045,125000.0,125000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,50.0,2.0,1.0,,1.0,0,0,0,0,0,1,no
+95919532,123000.0,123000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,55.0,1.0,1.0,,0.0,0,0,0,0,0,1,no
+95759598,495000.0,495000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,165.0,4.0,2.0,1990.0,2.0,1,0,0,0,0,0,no
+95018637,180000.0,180000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,65.0,2.0,1.0,1985.0,4.0,1,1,1,0,0,0,no
+94996084,198000.0,198000.0,Professional advertiser,flat / apartment ,zona laguna,unknown,,79.0,3.0,1.0,,0.0,1,0,0,0,0,1,no
+90026208,143000.0,143000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,plaza gaspar del pino,,77.0,2.0,1.0,,,1,0,0,0,0,0,no
+92504394,125000.0,125000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,54.0,1.0,1.0,2005.0,1.0,0,0,0,0,0,0,no
+91339276,122400.0,122400.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,76.0,2.0,1.0,,2.0,0,1,1,1,0,1,no
+91339282,312000.0,312000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,147.0,3.0,2.0,,2.0,1,1,1,0,1,1,no
+96849203,400000.0,400000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,paseo principe asturias,8.0,120.0,4.0,1.0,2001.0,6.0,1,1,1,1,1,1,individual
+88694695,330000.0,330000.0,Private owner,flat / apartment ,la caleta - la vina,avenida duque de najera,7.0,169.0,7.0,3.0,,1.0,1,0,0,0,1,1,no
+96493282,166000.0,166000.0,Professional advertiser,flat / apartment ,zona san jose - varela,calle francisco garcia de sola,,54.0,2.0,1.0,1965.0,0.0,0,0,0,0,0,1,no
+96441858,216993.0,216993.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,110.0,3.0,2.0,1888.0,2.0,0,1,0,1,1,0,no
+96441734,277000.0,277000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,143.0,3.0,2.0,2010.0,1.0,0,1,0,1,0,1,individual
+96127462,135000.0,135000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,calle adolfo de castro,,71.0,2.0,1.0,2003.0,3.0,0,0,0,1,0,0,no
+95649195,132000.0,132000.0,Professional advertiser,flat / apartment ,zona san jose - varela,calle francisco garcia de sola,,66.0,4.0,2.0,1965.0,4.0,1,0,0,0,0,1,no
+95245875,125000.0,125000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,calle sor cristina lopez garcia,,58.0,2.0,1.0,,,0,0,0,0,0,1,no
+95309295,320000.0,320000.0,Professional advertiser,flat / apartment ,playa victoria,avenida ana de viya,,110.0,3.0,2.0,1977.0,7.0,1,0,0,1,1,1,no
+94982824,360000.0,360000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,avenida segunda aguada,,120.0,4.0,2.0,,1.0,1,0,1,0,0,0,no
+94994602,105000.0,105000.0,Professional advertiser,flat / apartment ,zona laguna,patio de santa teresa,,53.0,2.0,1.0,1964.0,4.0,0,0,0,0,0,1,no
+94926399,335000.0,335000.0,Professional advertiser,flat / apartment ,zona bahia blanca,calle santa cruz de tenerife,,100.0,3.0,2.0,,1.0,1,0,1,1,1,1,individual
+94657772,160000.0,160000.0,Professional advertiser,studio flat ,mentidero - teatro falla - alameda,calle soledad,,62.0,0.0,1.0,2011.0,1.0,1,1,0,1,0,0,no
+94254139,99900.0,99900.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,mojarra,,50.0,2.0,1.0,1959.0,0.0,1,0,0,0,0,0,no
+92928081,272000.0,272000.0,Professional advertiser,flat / apartment ,playa victoria,calle general munoz arenillas,,96.0,3.0,2.0,1985.0,10.0,1,0,0,0,1,1,no
+88821488,139000.0,139000.0,Professional advertiser,flat / apartment ,zona san jose - varela,calle alfonso aramburu,,84.0,3.0,1.0,1958.0,3.0,0,0,0,0,1,1,no
+93515108,198000.0,198000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,120.0,3.0,1.0,,2.0,0,1,0,1,0,1,no
+96127117,265000.0,265000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,115.0,3.0,1.0,,2.0,0,0,1,1,0,1,no
+90026346,123500.0,123500.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,calle amadeo rodriguez,,71.0,2.0,1.0,,,0,0,0,0,0,0,no
+90025208,127000.0,127000.0,Professional advertiser,flat / apartment ,la caleta - la vina,calle maria arteaga,,77.0,1.0,1.0,,,0,0,0,0,0,0,no
+96802805,135000.0,135000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,66.0,3.0,1.0,1969.0,4.0,1,0,0,1,0,1,no
+96638110,200000.0,200000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,115.0,4.0,1.0,,3.0,0,0,0,0,0,1,no
+96419970,126000.0,129900.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,65.0,2.0,1.0,,0.0,0,0,0,0,0,1,no
+96821373,160000.0,160000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,64.0,2.0,1.0,,3.0,0,1,1,0,0,1,no
+96752403,190000.0,190000.0,Private owner,flat / apartment ,mentidero - teatro falla - alameda,calle manuel rances,16.0,112.0,4.0,1.0,,3.0,0,1,0,1,0,1,no
+96633700,210000.0,210000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,92.0,4.0,2.0,1967.0,3.0,0,1,1,1,0,1,no
+96613046,200000.0,200000.0,Professional advertiser,penthouse ,mentidero - teatro falla - alameda,unknown,,69.0,1.0,1.0,,3.0,0,0,0,1,1,1,no
+96612952,179990.0,179990.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,70.0,3.0,1.0,,4.0,1,0,0,0,0,1,no
+96612986,179800.0,179800.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,74.0,3.0,1.0,,2.0,0,0,0,0,1,1,no
+96612969,170000.0,170000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,76.0,3.0,1.0,,0.0,0,0,0,0,1,1,no
+96612914,217700.0,217700.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,78.0,2.0,1.0,,3.0,0,0,0,0,1,1,no
+96570470,125000.0,125000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,67.0,3.0,1.0,1975.0,0.0,1,0,0,0,0,1,no
+96570474,169990.0,169990.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,65.0,3.0,1.0,1965.0,0.0,1,0,1,0,0,1,no
+96570464,102000.0,102000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,66.0,2.0,1.0,1888.0,3.0,0,0,0,0,0,0,no
+96799497,160000.0,160000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,calle amiel,21.0,91.0,3.0,1.0,1974.0,4.0,0,0,1,1,1,1,individual
+96863007,225000.0,225000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,84.0,3.0,2.0,,2.0,1,0,0,1,0,1,no
+96760652,112000.0,112000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,65.0,2.0,1.0,,0.0,0,0,0,0,0,1,no
+96676950,249000.0,249000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,150.0,5.0,1.0,,4.0,0,0,0,0,1,1,no
+96657925,320000.0,320000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,150.0,3.0,2.0,,3.0,1,0,1,0,0,1,no
+96657917,330000.0,330000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,180.0,7.0,3.0,,1.0,1,0,0,0,0,1,no
+96628280,195000.0,195000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,108.0,3.0,2.0,1888.0,2.0,0,0,0,0,0,1,no
+96457873,110500.0,123000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,90.0,3.0,1.0,1989.0,3.0,0,0,0,0,0,0,no
+96371093,159000.0,159000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,avenida de la sanidad publica,1.0,90.0,3.0,1.0,,3.0,0,1,1,1,0,1,no
+96357043,270000.0,270000.0,Private owner,flat / apartment ,playa stª mª del mar,virgen del perpetuo socorro,2.0,120.0,4.0,1.0,,4.0,1,0,0,1,1,1,no
+96264309,380000.0,380000.0,Private owner,flat / apartment ,zona bahia blanca,calle juan ramon jimenez,3.0,155.0,5.0,2.0,,1.0,1,0,0,1,1,1,no
+96102761,185000.0,185000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,avenida san severiano,35.0,72.0,3.0,1.0,,6.0,1,0,1,1,0,0,no
+95789890,159999.0,159999.0,Private owner,flat / apartment ,la caleta - la vina,calle maria arteaga,18.0,80.0,3.0,1.0,,0.0,0,0,0,1,0,0,no
+95552593,170000.0,170000.0,Private owner,flat / apartment ,mentidero - teatro falla - alameda,navas,8.0,95.0,3.0,1.0,,2.0,0,0,1,1,0,0,no
+95446904,135000.0,135000.0,Private owner,studio flat ,la paz - segunda aguada - loreto,calle pintor viniegra,2.0,50.0,0.0,1.0,,0.0,0,0,0,1,0,1,no
+95298931,361000.0,361000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,120.0,4.0,2.0,,1.0,1,0,1,0,0,0,no
+93829693,180000.0,180000.0,Private owner,flat / apartment ,zona san jose - varela,calle garcia carrera,10.0,55.0,2.0,1.0,,2.0,0,0,0,0,0,1,no
+94971485,310000.0,310000.0,Private owner,flat / apartment ,centro historico - plaza espana,plaza san agustin,5.0,137.0,3.0,2.0,,3.0,0,1,0,0,0,1,no
+94650123,490000.0,490000.0,Private owner,flat / apartment ,playa stª mª del mar,playa santa maria del mar,1.0,130.0,4.0,2.0,,5.0,1,1,1,1,1,1,central
+94274947,118000.0,118000.0,Private owner,flat / apartment ,centro historico - plaza espana,solano,7.0,40.0,2.0,1.0,,0.0,0,0,0,0,0,0,no
+81881251,370000.0,370000.0,Private owner,flat / apartment ,zona laguna,plaza de madrid,3.0,87.0,3.0,2.0,,3.0,1,0,1,1,0,1,no
+93888553,160000.0,160000.0,Private owner,flat / apartment ,mentidero - teatro falla - alameda,plaza falla,1.0,62.0,1.0,1.0,2010.0,,1,0,0,1,1,0,no
+93459271,156000.0,156000.0,Private owner,flat / apartment ,zona laguna,patio de santa teresa,4.0,60.0,3.0,1.0,,3.0,0,1,0,1,0,1,no
+93325011,135000.0,135000.0,Private owner,flat / apartment ,la caleta - la vina,calle diego arias,2.0,59.0,2.0,1.0,,0.0,0,0,0,1,0,0,no
+92042107,180000.0,180000.0,Private owner,flat / apartment ,mentidero - teatro falla - alameda,calle rafael de la viesca,10.0,90.0,3.0,1.0,,3.0,0,1,0,1,0,1,no
+90771765,550000.0,550000.0,Private owner, detached house ,ayuntamiento - catedral,calle mirador,6.0,194.0,5.0,3.0,,,0,0,0,1,1,0,no
+89899716,165000.0,165000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,calle infante de orleans,9.0,60.0,2.0,1.0,1975.0,0.0,1,0,1,0,1,1,individual
+316918,140000.0,140000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,calle marconi,31.0,48.0,1.0,1.0,,,1,0,1,0,0,1,no
+83155118,650000.0,650000.0,Private owner,flat / apartment ,zona san jose - varela,avenida andalucia,43.0,236.0,4.0,3.0,,4.0,1,0,1,1,0,1,central
+33986063,255000.0,255000.0,Private owner,flat / apartment ,zona laguna,plaza de becquer,2.0,126.0,4.0,2.0,1975.0,7.0,1,0,1,1,1,1,individual
+32387766,260000.0,260000.0,Private owner,flat / apartment ,zona laguna,avenida marconi,12.0,110.0,5.0,2.0,,4.0,1,0,0,1,1,1,no
+25037874,400000.0,400000.0,Private owner,flat / apartment ,centro historico - plaza espana,calle novena,3.0,109.0,3.0,2.0,,2.0,1,0,0,1,0,0,no
+96873080,125000.0,125000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,80.0,3.0,2.0,,0.0,0,0,0,0,0,0,no
+96870484,250000.0,250000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,107.0,3.0,2.0,1971.0,2.0,0,0,0,1,1,1,no
+96630622,185000.0,185000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,80.0,3.0,1.0,,1.0,0,0,0,0,0,1,no
+95707005,340000.0,340000.0,Professional advertiser,flat / apartment ,zona laguna,unknown,,114.0,4.0,2.0,1985.0,4.0,1,0,0,0,0,1,no
+96622777,125000.0,125000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,70.0,2.0,1.0,,3.0,0,0,0,0,0,1,no
+96612902,99000.0,99000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,50.0,2.0,1.0,,0.0,1,0,0,0,0,1,no
+96437300,135000.0,135000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,60.0,2.0,1.0,,0.0,0,0,0,0,0,0,no
+96437167,129000.0,129000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,56.0,2.0,1.0,,0.0,0,0,0,0,0,1,no
+96437030,104000.0,104000.0,Professional advertiser,penthouse ,la caleta - la vina,unknown,,31.0,1.0,1.0,,3.0,0,0,0,0,1,1,no
+96415468,670000.0,670000.0,Professional advertiser,penthouse ,centro historico - plaza espana,unknown,,139.0,3.0,2.0,1941.0,3.0,1,0,1,1,1,1,no
+94381979,600000.0,600000.0,Professional advertiser,penthouse ,mentidero - teatro falla - alameda,unknown,,135.0,4.0,2.0,,2.0,0,0,1,0,1,1,no
+89377034,410000.0,410000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,152.0,3.0,2.0,2000.0,2.0,1,1,1,1,0,1,no
+96645371,200000.0,200000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,115.0,4.0,1.0,1981.0,3.0,0,0,0,0,0,0,no
+96219844,100000.0,100000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,44.0,1.0,1.0,1880.0,1.0,0,0,1,1,0,1,individual
+95995180,245000.0,245000.0,Private owner,flat / apartment ,la caleta - la vina,calle san rafael,31.0,100.0,3.0,2.0,,2.0,1,0,0,1,0,1,no
+88367801,160000.0,160000.0,Professional advertiser,flat / apartment ,zona laguna,unknown,,79.0,3.0,1.0,,0.0,1,0,0,0,0,1,no
+95216875,198000.0,198000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,83.0,4.0,1.0,1964.0,1.0,0,1,1,1,1,1,no
+95148294,330000.0,330000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,155.0,7.0,3.0,1968.0,1.0,1,0,0,1,1,0,no
+93888163,400000.0,400000.0,Professional advertiser,flat / apartment ,cortadura - zona franca,unknown,,60.0,2.0,1.0,,2.0,1,0,1,0,0,1,no
+93846535,142000.0,142000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,59.0,2.0,1.0,1957.0,3.0,0,0,0,1,0,1,no
+93000223,125000.0,125000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,55.0,2.0,1.0,1957.0,0.0,1,0,0,0,0,1,no
+88367579,149000.0,149000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,80.0,3.0,1.0,1958.0,,0,0,0,1,0,0,no
+90634667,195000.0,195000.0,Private owner,flat / apartment ,centro historico - plaza espana,calle general luque,4.0,91.0,2.0,2.0,,2.0,0,0,1,1,0,0,no
+89283464,239000.0,239000.0,Private owner,flat / apartment ,zona laguna,calle pintor clemente de torres,1.0,70.0,3.0,1.0,,7.0,1,0,0,0,0,1,no
+88368160,127000.0,127000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,70.0,3.0,1.0,,,1,0,0,0,0,1,no
+39403809,185000.0,185000.0,Private owner,flat / apartment ,mentidero - teatro falla - alameda,calle bendicion de dios,18.0,80.0,3.0,1.0,,1.0,0,1,0,1,1,1,no
+96604818,120000.0,120000.0,Private owner,flat / apartment ,mentidero - teatro falla - alameda,calle san jose,37.0,60.0,2.0,1.0,,0.0,0,0,0,0,0,1,no
+96260050,180000.0,180000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,calle grupo santo domingo de la calzada,1.0,90.0,3.0,1.0,,4.0,1,0,0,0,0,1,no
+83703510,160000.0,160000.0,Private owner,flat / apartment ,centro historico - plaza espana,calle conde de o'reilly,6.0,65.0,2.0,1.0,,4.0,0,1,1,1,0,1,individual
+95423840,149000.0,149000.0,Private owner,duplex ,la caleta - la vina,calle benito perez galdos,80.0,53.0,1.0,1.0,,0.0,0,0,1,0,0,1,no
+94244660,200000.0,200000.0,Private owner,flat / apartment ,mentidero - teatro falla - alameda,calle benjumeda,30.0,100.0,3.0,1.0,,0.0,1,0,1,1,0,1,individual
+87861927,120000.0,120000.0,Private owner,flat / apartment ,mentidero - teatro falla - alameda,calle enrique de las marinas,8.0,54.0,2.0,1.0,,2.0,0,0,0,1,0,0,no
+93413111,300000.0,300000.0,Private owner, detached house ,mentidero - teatro falla - alameda,plaza viudas,17.0,240.0,3.0,3.0,,,0,0,0,0,0,0,no
+35064243,150000.0,150000.0,Private owner,flat / apartment ,zona san jose - varela,calle alfonso aramburu,5.0,75.0,3.0,1.0,,0.0,0,0,0,0,0,1,no
+92323029,250000.0,250000.0,Private owner,studio flat ,centro historico - plaza espana,plazuela de las tres carabelas,7.0,185.0,0.0,2.0,,0.0,1,0,1,0,0,1,no
+92317508,295000.0,295000.0,Private owner,flat / apartment ,cortadura - zona franca,avenida jose leon de carranza,18.0,80.0,2.0,1.0,,13.0,1,0,1,1,1,1,no
+96530200,142000.0,142000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,53.0,1.0,1.0,,2.0,1,0,1,1,0,0,no
+96412994,245000.0,245000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,100.0,3.0,2.0,,2.0,0,0,0,0,0,1,no
+96412967,125000.0,125000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,80.0,3.0,1.0,,0.0,1,0,0,0,0,1,no
+96412940,180000.0,180000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,75.0,3.0,1.0,,4.0,0,0,0,0,0,1,no
+96412847,165000.0,165000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,80.0,3.0,1.0,,7.0,1,0,0,0,0,1,no
+96533641,153000.0,153000.0,Professional advertiser,duplex ,la paz - segunda aguada - loreto,unknown,,70.0,1.0,1.0,,,1,0,0,0,0,1,no
+90132468,700000.0,700000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,105.0,5.0,2.0,,7.0,1,1,0,0,1,1,no
+88660552,118000.0,118000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,52.0,1.0,1.0,1995.0,0.0,0,0,0,0,0,0,no
+88930534,225000.0,225000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,93.0,3.0,1.0,1978.0,1.0,1,0,0,1,0,1,no
+88209081,151000.0,151000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,60.0,2.0,1.0,2002.0,0.0,0,0,0,1,0,1,no
+91700185,375000.0,375000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,110.0,2.0,2.0,,8.0,1,0,0,1,0,1,no
+95211258,165000.0,165000.0,Professional advertiser,flat / apartment ,zona laguna,unknown,,60.0,3.0,1.0,,3.0,0,0,0,1,0,1,no
+96087129,245000.0,245000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,100.0,3.0,2.0,,2.0,1,0,0,1,0,1,no
+95622116,390000.0,390000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,131.0,3.0,2.0,,3.0,1,1,0,1,0,1,no
+93767045,145000.0,145000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,barbate,7.0,61.0,3.0,1.0,,7.0,1,1,0,0,0,1,no
+92351827,720000.0,720000.0,Private owner,flat / apartment ,playa stª mª del mar,avenida fernandez ladreda,1.0,178.0,3.0,2.0,1960.0,2.0,1,0,0,1,0,1,individual
+91339291,260000.0,260000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,98.0,3.0,2.0,,1.0,0,0,0,0,0,1,individual
+29167868,135000.0,135000.0,Private owner,flat / apartment ,la caleta - la vina,calle san jose,67.0,80.0,2.0,1.0,,0.0,0,0,0,1,0,1,no
+96457786,110000.0,110000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,65.0,2.0,1.0,1970.0,0.0,0,0,0,0,0,1,no
+96457785,245000.0,245000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,105.0,3.0,2.0,1987.0,2.0,1,0,0,0,0,0,no
+96457771,165000.0,165000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,65.0,3.0,1.0,1980.0,7.0,1,0,0,0,0,0,no
+96457765,129000.0,129000.0,Professional advertiser,flat / apartment ,ayuntamiento - catedral,unknown,,70.0,1.0,1.0,1990.0,0.0,0,0,0,0,0,0,no
+96451998,145000.0,145000.0,Professional advertiser,flat / apartment ,la paz - segunda aguada - loreto,unknown,,70.0,2.0,1.0,1990.0,3.0,1,0,0,1,0,1,no
+91339196,220000.0,220000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,80.0,3.0,1.0,,1.0,1,0,0,1,0,0,no
+91339263,135000.0,135000.0,Professional advertiser,flat / apartment ,la caleta - la vina,unknown,,56.0,2.0,1.0,,,0,0,0,1,0,1,no
+91339260,138000.0,138000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,59.0,2.0,1.0,,1.0,0,0,0,0,0,0,no
+96507578,250000.0,250000.0,Private owner,flat / apartment ,zona san jose - varela,unknown,,110.0,3.0,2.0,,2.0,0,1,1,0,1,1,no
+96457824,82200.0,82200.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,60.0,2.0,1.0,1980.0,0.0,0,0,0,0,0,0,no
+96457800,141500.0,141500.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,55.0,3.0,1.0,1888.0,4.0,0,0,0,0,0,0,no
+96457811,143000.0,143000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,76.0,2.0,1.0,1988.0,0.0,0,0,0,0,0,0,no
+92799565,320000.0,320000.0,Professional advertiser,flat / apartment ,playa victoria,unknown,,102.0,3.0,2.0,,4.0,1,0,0,1,1,1,no
+91339301,122000.0,122000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,70.0,2.0,1.0,,2.0,0,0,1,1,0,0,no
+96457814,82500.0,82500.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,unknown,,45.0,2.0,1.0,1970.0,3.0,0,0,0,0,0,0,no
+96457822,260000.0,260000.0,Professional advertiser,flat / apartment ,zona san jose - varela,unknown,,127.0,4.0,2.0,1968.0,3.0,0,0,0,0,0,0,no
+96457797,277000.0,277000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,unknown,,145.0,3.0,2.0,1980.0,1.0,1,0,0,0,0,0,no
+96593107,169900.0,169900.0,Private owner,penthouse ,centro historico - plaza espana,unknown,,75.0,1.0,1.0,,4.0,0,0,0,0,1,1,no
+96908181,199000.0,199000.0,Private owner,flat / apartment ,zona san jose - varela,calle salvador del mundo,1.0,75.0,3.0,1.0,,3.0,1,0,0,0,0,1,no
+96777707,185000.0,185000.0,Professional advertiser,flat / apartment ,mentidero - teatro falla - alameda,bendicion de dios,,90.0,3.0,1.0,,1.0,0,1,0,1,0,1,no
+95589568,120000.0,120000.0,Professional advertiser,flat / apartment ,la caleta - la vina,cruz,,80.0,3.0,1.0,,1.0,0,0,0,0,0,1,no
+88799157,180000.0,180000.0,Professional advertiser,flat / apartment ,centro historico - plaza espana,torre,,190.0,7.0,1.0,,0.0,0,0,0,0,1,1,no
+96682342,400000.0,400000.0,Private owner,flat / apartment ,playa victoria,avenida andalucia,74.0,120.0,4.0,2.0,,4.0,1,0,0,0,1,1,no
+93179738,125000.0,125000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,calle sor cristina lopez garcia,1.0,58.0,2.0,1.0,,0.0,1,0,0,0,0,1,no
+36893244,230000.0,230000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,calle infante de orleans,2.0,97.0,3.0,1.0,,5.0,1,0,0,0,0,1,no
+35534924,544000.0,544000.0,,penthouse ,ayuntamiento - catedral,calle posadilla,6.0,525.0,10.0,5.0,,2.0,0,0,0,0,1,1,no
+94663136,190000.0,190000.0,Private owner,flat / apartment ,centro historico - plaza espana,calle villalobos,12.0,59.0,2.0,1.0,1999.0,1.0,0,0,1,0,0,1,no
+94329595,129000.0,129000.0,Private owner,flat / apartment ,ayuntamiento - catedral,plaza de las canastas,8.0,70.0,1.0,1.0,,0.0,0,0,0,0,0,0,no
+90861877,180000.0,180000.0,Private owner,studio flat ,la paz - segunda aguada - loreto,avenida san severiano,15.0,70.0,0.0,1.0,,0.0,1,0,1,0,0,1,no
+93269868,195000.0,195000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,avenida de la sanidad publica,5.0,90.0,3.0,1.0,,1.0,1,0,0,0,0,1,no
+93917668,475000.0,475000.0,Private owner,duplex ,centro historico - plaza espana,plaza arguelles,6.0,198.0,4.0,2.0,,2.0,1,1,1,0,0,1,no
+90524637,150000.0,150000.0,Private owner,studio flat ,la paz - segunda aguada - loreto,calle veracruz,1.0,70.0,0.0,1.0,2007.0,0.0,1,0,1,0,0,1,individual
+95043989,127000.0,127000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,avenida lacave,3.0,82.0,4.0,1.0,,0.0,1,0,0,0,0,1,no
+94662655,165000.0,165000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,calle san mateo,1.0,89.0,3.0,1.0,,7.0,1,0,1,0,1,1,no
+93379315,106000.0,106000.0,Private owner,penthouse ,la caleta - la vina,calle lubet,2.0,40.0,1.0,1.0,,3.0,0,0,1,0,1,1,no
+1673585,211500.0,211500.0,Private owner,flat / apartment ,la caleta - la vina,calle trinidad,10.0,85.0,2.0,2.0,,1.0,0,0,0,1,0,1,no
+93420751,134000.0,134000.0,Private owner,flat / apartment ,la paz - segunda aguada - loreto,barbate,1.0,78.0,3.0,1.0,,6.0,1,0,0,0,0,1,no
+27214887,270000.0,270000.0,Private owner,flat / apartment ,zona san jose - varela,calle garcia carrera,9.0,110.0,3.0,2.0,,1.0,1,0,1,1,1,1,no
+93671182,325000.0,325000.0,Private owner,flat / apartment ,zona laguna,avenida marconi,4.0,127.0,4.0,2.0,,3.0,1,1,0,1,1,1,no
+28655785,270000.0,270000.0,Private owner,studio flat ,mentidero - teatro falla - alameda,calle vea murguia,40.0,250.0,0.0,0.0,,0.0,0,0,0,0,0,1,no
+94548369,198000.0,198000.0,Private owner,flat / apartment ,zona laguna,calle sorolla,21.0,60.0,3.0,1.0,,0.0,1,0,0,0,1,1,no
+94173357,300000.0,300000.0,Private owner,flat / apartment ,centro historico - plaza espana,calle ruiz de bustamante,3.0,110.0,3.0,2.0,,3.0,1,0,1,1,0,1,no
+93977763,320000.0,320000.0,Private owner,flat / apartment ,centro historico - plaza espana,calle san pedro,20.0,320.0,4.0,2.0,,1.0,0,0,0,0,0,1,no
+29024186,550000.0,550000.0,Private owner,flat / apartment ,mentidero - teatro falla - alameda,calle antonio lopez,12.0,288.0,5.0,3.0,,3.0,1,0,1,0,0,1,no
